@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/manas/ontologies/2022/5/untitled-ontology-8#"
+     xml:base="http://www.semanticweb.org/manas/ontologies/2022/5/untitled-ontology-8"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.newIndianCarModels.org/manas/ontology/NewIndianCarModels"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_334e971e_cf26_48b4_9bec_b15e0868352e -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_334e971e_cf26_48b4_9bec_b15e0868352e">
+        <rdfs:label xml:lang="en">hasPriceOf
+
+</rdfs:label>
+        <rdfs:comment>Price Range of each Car
+Ex: 13.99 - 17.4 L, 3.39 - 5.03 L
+If differs based on model and style of car</rdfs:comment>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_58043f55_b306_4c36_9ead_57274d7efcac"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_7abb471d_d792_437a_a347_4c5bf5927aae -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_7abb471d_d792_437a_a347_4c5bf5927aae">
+        <rdfs:label xml:lang="en">hasDifferent</rdfs:label>
+        <rdfs:comment>Each car has different styles
+SUV, Sedan</rdfs:comment>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_39f9f54a_0d4b_4636_ad1e_b06bfd9a8621"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_ad9ed940_90e2_4b11_b0b8_1a3bd4d3e384 -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_ad9ed940_90e2_4b11_b0b8_1a3bd4d3e384">
+        <rdfs:label xml:lang="en">isRunningOn</rdfs:label>
+        <rdfs:comment>Car is running on 
+Diesel
+Electric
+Hybrid
+Petrol
+Petrol and CNG (Compressed Natural Gas)
+Petrol and LPG (Liquefied Petroleum Gas)</rdfs:comment>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_c62d9ae3_b5ee_411c_aea8_7b52a1fa8229 -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_c62d9ae3_b5ee_411c_aea8_7b52a1fa8229">
+        <rdfs:label xml:lang="en">hasPerformance</rdfs:label>
+        <rdfs:comment>Rating given to cars (out of 10) by customers</rdfs:comment>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_af012079_27db_4f22_aed4_e7db5afd72e7"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_fe069509_416c_4562_93a9_e21a6cbd6017 -->
+
+    <owl:ObjectProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLObjectProperty_fe069509_416c_4562_93a9_e21a6cbd6017">
+        <rdfs:label xml:lang="en">typesOf</rdfs:label>
+        <rdfs:comment>Features are
+Automatic
+Manual
+AMT(Automated Manual Transmission)</rdfs:comment>
+        <rdfs:range rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce"/>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_5e95f783_547a_4d94_822a_b6577dbe775a -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_5e95f783_547a_4d94_822a_b6577dbe775a">
+        <rdfs:label xml:lang="en">Range</rdfs:label>
+        <rdfs:comment>Range of each car
+</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2050eeec_6fbd_40e3_99eb_36f03fcc6be6"/>
+        <rdfs:range rdf:resource="&xsd;float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_65a80fb4_3b24_4c8e_91a8_1583748e6452 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_65a80fb4_3b24_4c8e_91a8_1583748e6452">
+        <rdfs:label xml:lang="en">Type</rdfs:label>
+        <rdfs:comment>Car has different types like
+Diesel
+Electric
+Hybrid
+Petrol
+Petrol and CNG (Compressed Natural Gas)
+Petrol and LPG (Liquefied Petroleum Gas)</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_72c5d304_cde6_4c59_92f3_af4ef089cd76 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_72c5d304_cde6_4c59_92f3_af4ef089cd76">
+        <rdfs:label xml:lang="en">Feature</rdfs:label>
+        <rdfs:comment>Features are
+Automatic
+Manual
+AMT(Automated Msnusl Transmission)</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_a75a75dc_d61e_4d53_9511_21d3e97c28f3 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_a75a75dc_d61e_4d53_9511_21d3e97c28f3">
+        <rdfs:label xml:lang="en">Rating</rdfs:label>
+        <rdfs:comment>Customers gives ratings for the Car (out of 10)</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_af012079_27db_4f22_aed4_e7db5afd72e7"/>
+        <rdfs:range rdf:resource="&xsd;int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_a92ba42e_c557_4b47_8920_1e5f227c1e4d -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_a92ba42e_c557_4b47_8920_1e5f227c1e4d">
+        <rdfs:label xml:lang="en">Name</rdfs:label>
+        <rdfs:comment>Names of Car</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a"/>
+        <rdfs:range rdf:resource="&xsd;Name"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_beadd2f5_e4af_4467_8b9f_e4119bfab7a7 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_beadd2f5_e4af_4467_8b9f_e4119bfab7a7">
+        <rdfs:label xml:lang="en">Style</rdfs:label>
+        <rdfs:comment>Car styles are
+SUV
+Sedan
+Entry Hatchback</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_39f9f54a_0d4b_4636_ad1e_b06bfd9a8621"/>
+        <rdfs:range rdf:resource="&xsd;string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_f990d608_8bf1_4552_a38c_f76507b7bfc8 -->
+
+    <owl:DatatypeProperty rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLDataProperty_f990d608_8bf1_4552_a38c_f76507b7bfc8">
+        <rdfs:label xml:lang="en">Price</rdfs:label>
+        <rdfs:comment>Price of  each Car</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_58043f55_b306_4c36_9ead_57274d7efcac"/>
+        <rdfs:range rdf:resource="&xsd;float"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_02041c7d_11af_49ab_aeb1_e89240745d79 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_02041c7d_11af_49ab_aeb1_e89240745d79">
+        <rdfs:label xml:lang="en">Hybrid</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0">
+        <rdfs:label xml:lang="en">VehicleType</rdfs:label>
+        <rdfs:comment>Type of vehicle like whether it is Perol or disel car etc</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_182306ad_73bf_405f_8fac_bbb855e4f016 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_182306ad_73bf_405f_8fac_bbb855e4f016">
+        <rdfs:label xml:lang="en">Petrol</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_2050eeec_6fbd_40e3_99eb_36f03fcc6be6 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2050eeec_6fbd_40e3_99eb_36f03fcc6be6">
+        <rdfs:label xml:lang="en">Range</rdfs:label>
+        <rdfs:comment>Range od car
+Kilometer per liter
+Ex:20.2 - 26.2 Km/l</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_24a025ca_ccca_4a93_9a53_69e8ba5b083f -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_24a025ca_ccca_4a93_9a53_69e8ba5b083f">
+        <rdfs:label xml:lang="en">PetrolAndLPG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+        <rdfs:comment>Petrol and LPG (Liquefied Petroleum Gas)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce">
+        <rdfs:label xml:lang="en">Transmission</rdfs:label>
+        <rdfs:comment>Type of car transmission like AMT(Automated Manual Treansmission), Automatic and Manual
+</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_371e0d74_08e4_495a_b900_8c6210ed05cf -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_371e0d74_08e4_495a_b900_8c6210ed05cf">
+        <rdfs:label xml:lang="en">Manual</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_39f9f54a_0d4b_4636_ad1e_b06bfd9a8621 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_39f9f54a_0d4b_4636_ad1e_b06bfd9a8621">
+        <rdfs:label xml:lang="en">Style</rdfs:label>
+        <rdfs:comment>Car styles are
+Ex: SUV,Sedan,Entry Hatchback etc</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_44e5178c_acde_4670_81c7_bc61f4d27f2b -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_44e5178c_acde_4670_81c7_bc61f4d27f2b">
+        <rdfs:label xml:lang="en">PetrolAndCNG</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+        <rdfs:comment>Petrol and CNG (Compressed Natural Gas)
+</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_58043f55_b306_4c36_9ead_57274d7efcac -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_58043f55_b306_4c36_9ead_57274d7efcac">
+        <rdfs:label xml:lang="en">PriceRange</rdfs:label>
+        <rdfs:comment>Price Range of each Car
+Ex: 13.99 - 17.4 L, 3.39 - 5.03 L
+If differs based on model and style of car</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_6665afb9_cab3_4afb_8252_1e5f41b822d5 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_6665afb9_cab3_4afb_8252_1e5f41b822d5">
+        <rdfs:label xml:lang="en">Electric</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_68964a34_8d9d_4713_ada9_af8c956d2141 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_68964a34_8d9d_4713_ada9_af8c956d2141">
+        <rdfs:label xml:lang="en">Diesel</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_0e4e8ae4_910d_41e9_9213_7e2bccddbea0"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_af012079_27db_4f22_aed4_e7db5afd72e7 -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_af012079_27db_4f22_aed4_e7db5afd72e7">
+        <rdfs:label xml:lang="en">Rating</rdfs:label>
+        <rdfs:comment>Rating given to cars (out of 10) by customers
+</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_d7ecedaa_a025_4751_aeb5_92118000675a">
+        <rdfs:label xml:lang="en">CarModel</rdfs:label>
+        <rdfs:comment>name of each car model</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_f23b5741_d8e8_4862_b818_bec73af5ee3d -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_f23b5741_d8e8_4862_b818_bec73af5ee3d">
+        <rdfs:label xml:lang="en">AMT</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce"/>
+        <rdfs:comment>AMT(Automated Manual Treansmission)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#OWLClass_fb517250_0460_4cba_9351_8773cdc42b2e -->
+
+    <owl:Class rdf:about="http://www.co-ode.org/ontologies/ont.owl#OWLClass_fb517250_0460_4cba_9351_8773cdc42b2e">
+        <rdfs:label xml:lang="en">Automatic</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/ont.owl#OWLClass_2a8c8f10_636b_4487_9f79_1f225dc795ce"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

@@ -1,0 +1,2556 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="https://dbpedia.org/ontology/"
+    xmlns:j.1="http://www.w3.org/2000/01/rdf-schema/"
+    xmlns:j.2="http://www.w3.org/1999/02/22-rdf-syntax-ns/">
+  <rdf:Description rdf:about="https://dbpedia.org/page/Kia_Sonet">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>18.2 - 24.1 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Kia Sonet</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Hilux">
+    <j.0:rating>₹ 33.99 - 36.8 L</j.0:rating>
+    <j.0:price>Diesel</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Toyota Hilux</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_A-Class_Limousine">
+    <j.0:rating>₹ 42 - 44 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>17.5 - 21.35 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Mercedes-Benz A-Class Limousine</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Isuzu_D-Max">
+    <j.0:rating>8.4</j.0:rating>
+    <j.0:price>₹ 6.87 - 8.09 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>14.4 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Isuzu D-Max</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Punch">
+    <j.0:rating>₹ 5.83 - 9.49 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Tata Punch</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X7">
+    <j.0:rating>₹ 1.18 - 1.79 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.54 - 13.38 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW X7</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_Cooper_Convertible">
+    <j.0:rating>7.2</j.0:rating>
+    <j.0:price>₹ 37.1 - 44.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.59 - 14.6 Km/l</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>MINI Cooper Convertible</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Boxster">
+    <j.0:rating>8</j.0:rating>
+    <j.0:price>₹ 89.9 L - 1.46 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.4 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Porsche Boxster</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Tucson">
+    <j.0:rating>₹ 22.69 - 27.47 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.95 - 16.38 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Hyundai Tucson</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Force_Motors_Gurkha">
+    <j.0:rating>6.1</j.0:rating>
+    <j.0:price>₹ 13.59 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Force Motors Gurkha</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BYD_E6">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 29.15 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>415 Km/Full Charge</j.0:range>
+    <j.0:style>Subcompact MPV</j.0:style>
+    <j.1:cars>BYD E6</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Ciaz">
+    <j.0:rating>₹ 9 - 11.99 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>20.04 - 20.65 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Maruti Suzuki Ciaz</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Cayman">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 86 L - 1.63 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.4 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Porsche Cayman</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MG_Astor">
+    <j.0:rating>₹ 9.78 - 16.78 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>MG Astor</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volvo_XC60">
+    <j.0:rating>₹ 60.9 - 61.9 L</j.0:rating>
+    <j.0:price>Hybrid"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.8 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Volvo XC60</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maserati_Quattroporte">
+    <j.0:rating>₹ 1.63 - 2.51 Cr</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.9 - 10.7 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Maserati Quattroporte</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X6">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 1.05 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.31 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW X6</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_A8">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 1.58 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Audi A8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Verna">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.1 - 21.4 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Hyundai Verna</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Superb">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 32.85 - 35.85 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15.1 Km/l</j.0:range>
+    <j.0:style>Fullsize Sedan</j.0:style>
+    <j.1:cars>Skoda Superb</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Safari">
+    <j.0:rating>₹ 15.25 - 23.46 L</j.0:rating>
+    <j.0:price>Diesel</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16.14 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Tata Safari</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_SLC_43">
+    <j.0:rating>7.1</j.0:rating>
+    <j.0:price>₹ 77.5 - 87.48 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.8 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Mercedes-AMG SLC 43</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_Q8">
+    <j.0:rating>8.5</j.0:rating>
+    <j.0:price>₹ 1.04 - 1.38 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Audi Q8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Honda_Amaze">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>18.3 - 24.7 Km/l</j.0:range>
+    <j.0:style>Subcompact Sedan</j.0:style>
+    <j.1:cars>Honda Amaze</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_i8">
+    <j.0:rating>8.4</j.0:rating>
+    <j.0:price>₹ 2.62 Cr</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>47.5 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>BMW i8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Bolero_Camper">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 8.93 - 9.42 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>13.86 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mahindra Bolero Camper</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_XF">
+    <j.0:rating>₹ 49.58 - 61.41 L</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.1 - 19.3 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>Jaguar XF</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Fortuner">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>10.01 - 14.22 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Toyota Fortuner</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Isuzu_MU-X">
+    <j.0:rating>7.3</j.0:rating>
+    <j.0:price>₹ 33.23 - 35.19 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Isuzu MU-X</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Swift">
+    <j.0:rating>₹ 5.92 - 8.85 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>22 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Swift</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_C_43">
+    <j.0:rating>7.2</j.0:rating>
+    <j.0:price>₹ 48.74 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.5 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Mercedes-AMG C 43</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MG_Hector_Plus">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>13 - 17 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>MG Hector Plus</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ford_Endeavour">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 33.82 - 36.27 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.4 - 13.9 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Ford Endeavour</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X5">
+    <j.0:rating>₹ 79.9 - 95.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.24 - 13.38 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW X5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Bentley_Bentayga">
+    <j.0:rating>7.7</j.0:rating>
+    <j.0:price>₹ 3.85 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Bentley Bentayga</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Grand_i10_Nios">
+    <j.0:rating>Petrol+CNG</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20.2 - 26.2 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Hyundai Grand i10 Nios</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lamborghini_Huracan">
+    <j.0:rating>8.5</j.0:rating>
+    <j.0:price>₹ 3.22 - 4.1 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.3 - 11.91 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>Lamborghini Huracan</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Kodiaq">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 34.99 - 37.49 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.78 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Skoda Kodiaq</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Ertiga">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>19.01 - 26.2 Km/l</j.0:range>
+    <j.0:style>Compact MPV</j.0:style>
+    <j.1:cars>Maruti Suzuki Ertiga</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_RX">
+    <j.0:rating>6.4</j.0:rating>
+    <j.0:price>₹ 99 L - 1.29 Cr</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18.8 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Lexus RX</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_iX">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.16 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>425 Km/Full Charge</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW iX</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Honda_Jazz">
+    <j.0:rating>₹ 7.72 - 9.96 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.1 - 18.2 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Honda Jazz</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volvo_S90">
+    <j.0:rating>8.1</j.0:rating>
+    <j.0:price>₹ 61.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.6 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>Volvo S90</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_S_63_Coupe">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.6 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.7 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Mercedes-AMG S 63 Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_XE">
+    <j.0:rating>₹ 46.33 - 48.5 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.05 - 13.06 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Jaguar XE</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jeep_Wrangler_Unlimited">
+    <j.0:rating>7</j.0:rating>
+    <j.0:price>₹ 53.9 - 57.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.01 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Jeep Wrangler Unlimited</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Urban_Cruiser">
+    <j.0:rating>₹ 8.88 - 11.58 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.03 - 18.76 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Toyota Urban Cruiser</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Baleno">
+    <j.0:rating>₹ 6.49 - 9.71 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>22.35 - 22.94 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Baleno</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Dzire">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>22 - 31.12 Km/l</j.0:range>
+    <j.0:style>Subcompact Sedan</j.0:style>
+    <j.1:cars>Maruti Suzuki Dzire</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Tigor">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>17 - 21 Km/l</j.0:range>
+    <j.0:style>Subcompact Sedan</j.0:style>
+    <j.1:cars>Tata Tigor</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MG_ZS_EV">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 21.99 - 25.88 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>419 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>MG ZS EV</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X4">
+    <j.0:rating>₹ 71.9 - 73.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.82 - 14.24 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>BMW X4</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_5_door">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 33.3 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>21.2 Km/l</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>MINI 5 door</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Tigor_EV">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 12.49 - 13.64 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>306 Km/Full Charge</j.0:range>
+    <j.0:style>Subcompact Sedan</j.0:style>
+    <j.1:cars>Tata Tigor EV</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_8_Series">
+    <j.0:rating>8.5</j.0:rating>
+    <j.0:price>₹ 1.62 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.3 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>BMW 8 Series</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X6_M">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 1.82 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW X6 M</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/SsangYong_Rexton_W">
+    <j.0:rating>₹ 22.2 - 23.5 L</j.0:rating>
+    <j.0:price>Diesel</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>11.2 - 12.4 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>SsangYong Rexton W</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ford_Figo">
+    <j.0:rating>9</j.0:rating>
+    <j.0:price>₹ 7.75 - 8.2 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Ford Figo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_G-Class">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 1.5 Cr</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.13 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz G-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Aston_Martin_DBX">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 3.82 Cr</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Aston Martin DBX</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_GLS">
+    <j.0:rating>₹ 1 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz GLS</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Bentley_Continental">
+    <j.0:rating>8.1</j.0:rating>
+    <j.0:price>₹ 3.3 - 4.4 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 - 10.6 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Bentley Continental</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_E-Class">
+    <j.0:rating>₹ 67 - 85 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.06 - 14.2 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>Mercedes-Benz E-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_E_53">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.06 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.76 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Mercedes-AMG E 53</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X3">
+    <j.0:rating>₹ 61.9 - 67.5 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.17 - 16.55 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>BMW X3</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Maybach_S-Class">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.5 - 3.2 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.2 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Mercedes-Maybach S-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Range_Rover">
+    <j.0:rating>₹ 2.32 - 3.41 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.5 - 12.8 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Land Rover Range Rover</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_GLC">
+    <j.0:rating>₹ 62 - 68 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.3 - 18 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz GLC</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Nexon">
+    <j.0:rating>"Petrol</j.0:rating>
+    <j.0:price>Manual"</j.0:price>
+    <j.0:VehicleType>Automatic</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>21.5 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Tata Nexon</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_TT">
+    <j.0:rating>8.3</j.0:rating>
+    <j.0:price>₹ 65.43 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.3 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Audi TT</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_I-Pace">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.06 - 1.12 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>470 Km/Full Charge</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Jaguar I-Pace</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Isuzu_D-Max_V-Cross">
+    <j.0:rating>₹ 16.98 - 24.49 L</j.0:rating>
+    <j.0:price>Diesel</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.4 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Isuzu D-Max V-Cross</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Panamera">
+    <j.0:rating>6.6</j.0:rating>
+    <j.0:price>₹ 1.45 - 2.43 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Porsche Panamera</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_812_Superfast">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 5.2 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>6.7 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Ferrari 812 Superfast</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Bajaj_Qute">
+    <j.0:rating>₹ 2.64 - 2.84 L</j.0:rating>
+    <j.0:price>Petrol+CNG"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>35 - 43 Km/l</j.0:range>
+    <j.0:style>Quadricycle</j.0:style>
+    <j.1:cars>Bajaj Qute</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_E-Tron_GT_Sportback">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.8 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>388 Km/Full Charge</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Audi E-Tron GT Sportback</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ford_Figo_Aspire">
+    <j.0:rating>₹ 7.28 - 8.73 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>18.16 - 24.4 Km/l</j.0:range>
+    <j.0:style>Subcompact Sedan</j.0:style>
+    <j.1:cars>Ford Figo Aspire</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_5_Series">
+    <j.0:rating>₹ 64.5 - 74.5 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15.56 - 22.48 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>BMW 5 Series</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maserati_Ghibli">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>"Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.9 - 16.94 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Maserati Ghibli</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Nexon_EV">
+    <j.0:rating>8.5</j.0:rating>
+    <j.0:price>₹ 13.99 - 17.4 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>312 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Tata Nexon EV</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_EQC">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 1 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>471 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz EQC</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_C_43_Coupe">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 76.5 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.5 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Mercedes-AMG C 43 Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volvo_XC40">
+    <j.0:rating>8.7</j.0:rating>
+    <j.0:price>₹ 41.25 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Volvo XC40</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Nexon_EV_Max">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 17.74 - 19.24 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>437 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Tata Nexon EV Max</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Tiago">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>23.84 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Tata Tiago</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_Tiguan">
+    <j.0:rating>8.1</j.0:rating>
+    <j.0:price>₹ 32.79 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.65 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Volkswagen Tiguan</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Harrier">
+    <j.0:rating>₹ 14.65 - 21.95 L</j.0:rating>
+    <j.0:price>Diesel</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>15 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Tata Harrier</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_XUV700">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mahindra XUV700</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Bolero">
+    <j.0:rating>5</j.0:rating>
+    <j.0:price>₹ 9.33 - 10.26 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>16 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mahindra Bolero</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GLA_35">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 57.28 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG GLA 35</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Alto_800">
+    <j.0:rating>₹ 3.39 - 5.03 L</j.0:rating>
+    <j.0:price>Petrol+CNG"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>24.7 - 31.39 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Alto 800</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Taycan">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.5 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Porsche Taycan</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Kona_Electric">
+    <j.0:rating>8.7</j.0:rating>
+    <j.0:price>₹ 23.79 - 23.98 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>452 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Hyundai Kona Electric</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Defender">
+    <j.0:rating>₹ 76.57 L - 1.12 Cr</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.62 - 14 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Land Rover Defender</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X1">
+    <j.0:rating>₹ 41.5 - 44.5 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.82 - 19.62 Km/l</j.0:range>
+    <j.0:style>Premium Compact SUV</j.0:style>
+    <j.1:cars>BMW X1</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_3_door">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 38 - 45.5 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>17.33 Km/l</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>MINI 3 door</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_2_Series_Gran_Coupe">
+    <j.0:rating>₹ 41.5 - 44.5 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.82 - 19 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>BMW 2 Series Gran Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Aston_Martin_DB11">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 4.27 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Aston Martin DB11</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_LX">
+    <j.0:rating>6.3</j.0:rating>
+    <j.0:price>₹ 2.33 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.6 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Lexus LX</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_Taigun">
+    <j.0:rating>₹ 11.4 - 18.6 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16.44 - 18.47 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Volkswagen Taigun</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Scorpio">
+    <j.0:rating>7.3</j.0:rating>
+    <j.0:price>₹ 12.77 - 17.62 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>15 - 15.37 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Mahindra Scorpio</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jeep_Compass">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.1 - 16.97 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Jeep Compass</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Honda_WR-V">
+    <j.0:rating>₹ 8.83 - 11.86 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>17.5 - 25.5 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Honda WR-V</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_3_Series_Gran_Limousine">
+    <j.0:rating>₹ 54.5 - 56.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15.3 - 19.62 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>BMW 3 Series Gran Limousine</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_KUV100">
+    <j.0:rating>7.7</j.0:rating>
+    <j.0:price>₹ 6.2 - 7.86 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>17.45 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Mahindra KUV100</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Honda_City">
+    <j.0:rating>Diesel</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.8 - 24.1 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Honda City</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Renault_Kwid">
+    <j.0:rating>₹ 4.25 - 5.71 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>22 - 25 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Renault Kwid</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_S-Cross">
+    <j.0:rating>₹ 8.95 - 12.92 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>18.43 - 18.55 Km/l</j.0:range>
+    <j.0:style>Compact SUV/Crossover</j.0:style>
+    <j.1:cars>Maruti Suzuki S-Cross</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Bolero_Pik-Up">
+    <j.0:rating>₹ 8.37 - 9.06 L</j.0:rating>
+    <j.0:price>Petrol+CNG"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>13 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mahindra Bolero Pik-Up</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Citroen_C5_Aircross">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 31.3 - 32.8 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18.6 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Citroen C5 Aircross</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_T-Roc">
+    <j.0:rating>8.7</j.0:rating>
+    <j.0:price>₹ 21.35 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Volkswagen T-Roc</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_Z4">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 71.9 - 84.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.82 - 14.37 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>BMW Z4</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GLA_45">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 77.85 - 80.67 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.7 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG GLA 45</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_F8_Tributo">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 4.02 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.75 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Ferrari F8 Tributo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Cayenne_Coupe">
+    <j.0:rating>₹ 1.32 - 1.98 Cr</j.0:rating>
+    <j.0:price>Hybrid"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.84 - 10.75 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Porsche Cayenne Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Rolls-Royce_Phantom">
+    <j.0:rating>7.1</j.0:rating>
+    <j.0:price>₹ 9.5 - 11.35 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.2 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Rolls-Royce Phantom</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Rolls-Royce_Ghost">
+    <j.0:rating>7.7</j.0:rating>
+    <j.0:price>₹ 5.2 - 7.95 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.3 - 14.4 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Rolls-Royce Ghost</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_XUV300">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>17 - 20 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Mahindra XUV300</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_Portofino">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 3.5 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Ferrari Portofino</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_6_Series_Gran_Turismo">
+    <j.0:rating>₹ 69.9 - 79.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.28 - 18.65 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>BMW 6 Series Gran Turismo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_GLA-Class">
+    <j.0:rating>₹ 44.9 - 48.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13 - 17 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz GLA-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_California">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 3.8 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.5 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Ferrari California</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MG_Gloster">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 29.98 - 37.28 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.35 Km/l</j.0:range>
+    <j.0:style>Midsize SUV</j.0:style>
+    <j.1:cars>MG Gloster</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_S-Presso">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>21.4 - 21.7 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Maruti Suzuki S-Presso</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_i20_N_Line">
+    <j.0:rating>₹ 9.91 - 11.97 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>20.25 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Hyundai i20 N Line</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_S5">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 84.23 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Audi S5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Tiago_NRG">
+    <j.0:rating>₹ 6.78 - 7.33 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>23.84 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Tata Tiago NRG</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_GLE-Class">
+    <j.0:rating>₹ 73.7 L - 1.25 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9 - 9.7 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Mercedes-Benz GLE-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Thar">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>13 - 15.2 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Mahindra Thar</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Creta">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16.8 - 21.4 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Hyundai Creta</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_CLS">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 86.39 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.6 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Mercedes-Benz CLS</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_E-Tron">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.01 - 1.19 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>400 Km/Full Charge</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Audi E-Tron</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Bolero_Big_Pik-Up">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 8.53 - 8.79 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>13 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Mahindra Bolero Big Pik-Up</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X3_M">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.12 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>BMW X3 M</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_M8">
+    <j.0:rating>8.8</j.0:rating>
+    <j.0:price>₹ 2.23 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.3 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>BMW M8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_RS7_Sportback">
+    <j.0:rating>8.1</j.0:rating>
+    <j.0:price>₹ 2.24 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.6 Km/l</j.0:range>
+    <j.0:style>Performance Sedan</j.0:style>
+    <j.1:cars>Audi RS7 Sportback</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_Clubman">
+    <j.0:rating>7.4</j.0:rating>
+    <j.0:price>₹ 39.4 - 44.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.8 - 13.84 Km/l</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>MINI Clubman</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_488_Spider">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 4.34 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.4 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Ferrari 488 Spider</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Innova_Crysta">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>10.75 - 15.1 Km/l</j.0:range>
+    <j.0:style>Fullsize/Premium MPV</j.0:style>
+    <j.1:cars>Toyota Innova Crysta</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Rolls-Royce_Wraith">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 5.5 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.3 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Rolls-Royce Wraith</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Celerio_X">
+    <j.0:rating>₹ 5.12 - 5.92 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>23.1 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Celerio X</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MG_Hector">
+    <j.0:rating>Diesel</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>13.96 - 17.4 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>MG Hector</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lamborghini_Huracan_EVO_RWD_Spyder">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 3.54 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>Lamborghini Huracan EVO RWD Spyder</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Bentley_Mulsanne">
+    <j.0:rating>6.6</j.0:rating>
+    <j.0:price>₹ 5.55 - 6.6 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.7 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Bentley Mulsanne</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Renault_Duster">
+    <j.0:rating>₹ 9.86 - 14.25 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>13.06 - 16.5 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Renault Duster</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jeep_Grand_Cherokee">
+    <j.0:rating>₹ 75.15 L - 1.07 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.6 - 12.8 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Jeep Grand Cherokee</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_7_Series">
+    <j.0:rating>Hybrid"</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.86 - 39.53 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>BMW 7 Series</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lamborghini_Urus">
+    <j.0:rating>8.6</j.0:rating>
+    <j.0:price>₹ 3 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.8 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Lamborghini Urus</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GLC_43_Coupe">
+    <j.0:rating>₹ 72.5 - 87 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.75 - 16.35 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG GLC 43 Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lamborghini_Aventador">
+    <j.0:rating>8</j.0:rating>
+    <j.0:price>₹ 4.79 - 5.32 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>Lamborghini Aventador</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_RS_E-Tron_GT">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.05 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>401 Km/Full Charge</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Audi RS E-Tron GT</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_LC">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.1 - 2.16 Cr</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.75 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Lexus LC</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Range_Rover_Velar">
+    <j.0:rating>₹ 79.87 - 80.71 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.2 - 16.6 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Land Rover Range Rover Velar</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Wagon_R">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>21.5 - 33.4 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Wagon R</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_New_Santro">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20.3 - 30.48 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Hyundai New Santro</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Renault_Triber">
+    <j.0:rating>₹ 5.69 - 8.25 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20 Km/l</j.0:range>
+    <j.0:style>Compact MPV</j.0:style>
+    <j.1:cars>Renault Triber</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Elantra">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.6 Km/l</j.0:range>
+    <j.0:style>Midsize Sedan</j.0:style>
+    <j.1:cars>Hyundai Elantra</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Tata_Altroz">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>19.05 - 25.11 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Tata Altroz</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_Vento">
+    <j.0:rating>₹ 10 - 14.79 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16.09 - 18.19 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Volkswagen Vento</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Elite_i20">
+    <j.0:rating>"Petrol</j.0:rating>
+    <j.0:price>Manual"</j.0:price>
+    <j.0:VehicleType>Automatic</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>18.6 - 25.2 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Hyundai Elite i20</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_F-Pace">
+    <j.0:rating>₹ 69.99 L - 1.51 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Jaguar F-Pace</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_Roma">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 3.61 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>5.8 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Ferrari Roma</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Datsun_Redi_GO">
+    <j.0:rating>₹ 3.8 - 4.96 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20.71 - 22 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Datsun Redi GO</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Renault_Kiger">
+    <j.0:rating>Petrol</j.0:rating>
+    <j.0:price>Manual"</j.0:price>
+    <j.0:VehicleType>Automatic</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Renault Kiger</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Kushaq">
+    <j.0:rating>₹ 11.29 - 19.49 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>15.78 - 17.88 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Skoda Kushaq</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_NX">
+    <j.0:rating>7.1</j.0:rating>
+    <j.0:price>₹ 64.9 - 71.6 L</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18.3 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Lexus NX</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_F-Type">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 95.12 L - 2.42 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.85 - 15.3 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Jaguar F-Type</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_A_45">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 81.5 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>Mercedes-AMG A 45</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Octavia">
+    <j.0:rating>8.4</j.0:rating>
+    <j.0:price>₹ 26.29 - 29.29 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15.81 Km/l</j.0:range>
+    <j.0:style>Midsize Sedan</j.0:style>
+    <j.1:cars>Skoda Octavia</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_RS_Q8">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.17 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.2 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Audi RS Q8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Cayenne">
+    <j.0:rating>₹ 1.19 - 1.92 Cr</j.0:rating>
+    <j.0:price>Hybrid"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.2 - 14.3 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Porsche Cayenne</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volvo_XC90">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 89.9 - 96.65 L</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.6 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Volvo XC90</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Baleno_RS">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 8.89 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>21.4 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Baleno RS</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GLE_Coupe">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 1.53 - 2.07 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.1 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG GLE Coupe</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Aston_Martin_Vantage">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.95 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Aston Martin Vantage</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_S-Class">
+    <j.0:rating>₹ 1.6 - 1.69 Cr</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.1 - 13.5 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Mercedes-Benz S-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ford_EcoSport">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.7 - 21.7 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Ford EcoSport</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Aura">
+    <j.0:rating>Petrol+CNG</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20 - 28 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Hyundai Aura</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_Countryman">
+    <j.0:rating>7</j.0:rating>
+    <j.0:price>₹ 39.5 - 43.4 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.41 Km/l</j.0:range>
+    <j.0:style>Compact SUV/Crossover</j.0:style>
+    <j.1:cars>MINI Countryman</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Vitara_Brezza">
+    <j.0:rating>₹ 7.84 - 11.33 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.03 - 18.76 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Maruti Suzuki Vitara Brezza</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Camry">
+    <j.0:rating>7.4</j.0:rating>
+    <j.0:price>₹ 43.45 L</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>19.16 Km/l</j.0:range>
+    <j.0:style>Fullsize Sedan</j.0:style>
+    <j.1:cars>Toyota Camry</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_Q2">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 34.99 - 48.89 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Audi Q2</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Alcazar">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.2 - 20.4 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Hyundai Alcazar</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/MINI_SE">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 47.2 L</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>270 Km/Full Charge</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>MINI SE</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lamborghini_Huracan_STO">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 4.99 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>Lamborghini Huracan STO</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_E-Class_All-Terrain">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 77.25 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.1 Km/l</j.0:range>
+    <j.0:style>Compact SUV/Crossover</j.0:style>
+    <j.1:cars>Mercedes-Benz E-Class All-Terrain</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Discovery_Sport">
+    <j.0:rating>7.3</j.0:rating>
+    <j.0:price>₹ 57.06 - 60.89 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.12 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Land Rover Discovery Sport</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_M5">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 1.74 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.12 Km/l</j.0:range>
+    <j.0:style>Performance Sedan</j.0:style>
+    <j.1:cars>BMW M5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Kia_Carens">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Subcompact MPV</j.0:style>
+    <j.1:cars>Kia Carens</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Datsun_Go_Plus">
+    <j.0:rating>₹ 4.26 - 7 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>19.83 Km/l</j.0:range>
+    <j.0:style>Subcompact MPV</j.0:style>
+    <j.1:cars>Datsun Go Plus</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Rolls-Royce_Cullinan">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 6.95 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Rolls-Royce Cullinan</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Grand_i10">
+    <j.0:rating>7.7</j.0:rating>
+    <j.0:price>₹ 5.87 - 5.97 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>18.9 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Hyundai Grand i10</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_E_63_S">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 1.77 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.98 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Mercedes-AMG E 63 S</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_911">
+    <j.0:rating>8.1</j.0:rating>
+    <j.0:price>₹ 1.82 - 1.99 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.7 - 8.8 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Porsche 911</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_A5">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 55.4 - 69.24 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>17.2 - 19.2 Km/l</j.0:range>
+    <j.0:style>Premium Sports Sedan</j.0:style>
+    <j.1:cars>Audi A5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_C-Class">
+    <j.0:rating>₹ 55 - 61 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.9 - 23 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Mercedes-Benz C-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Kia_Seltos">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16 - 21 Km/l</j.0:range>
+    <j.0:style>Compact SUV</j.0:style>
+    <j.1:cars>Kia Seltos</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volvo_S60">
+    <j.0:rating>7.7</j.0:rating>
+    <j.0:price>₹ 45.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>27.03 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Volvo S60</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_Tiguan_AllSpace">
+    <j.0:rating>8.3</j.0:rating>
+    <j.0:price>₹ 34.2 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Volkswagen Tiguan AllSpace</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Kia_Carnival">
+    <j.0:rating>8</j.0:rating>
+    <j.0:price>₹ 29.99 - 34.99 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.9 Km/l</j.0:range>
+    <j.0:style>Fullsize/Premium MPV</j.0:style>
+    <j.1:cars>Kia Carnival</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Slavia">
+    <j.0:rating>₹ 10.69 - 17.79 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>19.47 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Skoda Slavia</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_CLA_45">
+    <j.0:rating>6.8</j.0:rating>
+    <j.0:price>₹ 77.69 - 77.85 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15 Km/l</j.0:range>
+    <j.0:style>Premium Compact Sedan</j.0:style>
+    <j.1:cars>Mercedes-AMG CLA 45</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Nissan_Magnite">
+    <j.0:rating>₹ 5.59 - 10 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.7 - 20 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Nissan Magnite</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_Q5">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 59.9 - 65.55 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.5 Km/l</j.0:range>
+    <j.0:style>Premium Midsize SUV</j.0:style>
+    <j.1:cars>Audi Q5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Maybach_GLS">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2.43 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-Maybach GLS</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Volkswagen_Polo">
+    <j.0:rating>₹ 6.55 - 10.25 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.75 - 18.24 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Volkswagen Polo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_V-Class">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 71.1 L - 1.1 Cr</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16 Km/l</j.0:range>
+    <j.0:style>Fullsize/Premium MPV</j.0:style>
+    <j.1:cars>Mercedes-Benz V-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_A4">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 40.49 - 48.99 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>17.84 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Audi A4</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_A_35">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 58 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.39 Km/l</j.0:range>
+    <j.0:style>Luxury Hatchback</j.0:style>
+    <j.1:cars>Mercedes-AMG A 35</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Range_Rover_Sport">
+    <j.0:rating>₹ 88.24 L - 2.19 Cr</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10 - 12 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Land Rover Range Rover Sport</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_M4">
+    <j.0:rating>8.4</j.0:rating>
+    <j.0:price>₹ 1.44 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.8 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>BMW M4</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GLS_63">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 1.57 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG GLS 63</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maserati_GranTurismo">
+    <j.0:rating>8</j.0:rating>
+    <j.0:price>₹ 2.25 - 2.51 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.3 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Maserati GranTurismo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Glanza">
+    <j.0:rating>₹ 6.39 - 9.69 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>22.35 - 22.94 Km/l</j.0:range>
+    <j.0:style>Premium Hatchback</j.0:style>
+    <j.1:cars>Toyota Glanza</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ford_Freestyle">
+    <j.0:rating>₹ 7.28 - 9.03 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>19 - 24.4 Km/l</j.0:range>
+    <j.0:style>Compact SUV/Crossover</j.0:style>
+    <j.1:cars>Ford Freestyle</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Alturas_G4">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 28.88 - 31.88 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>12.35 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mahindra Alturas G4</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Skoda_Rapid">
+    <j.0:rating>₹ 11.99 - 13.49 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>16.24 - 18.97 Km/l</j.0:range>
+    <j.0:style>Compact Sedan</j.0:style>
+    <j.1:cars>Skoda Rapid</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Eeco">
+    <j.0:rating>₹ 4.63 - 7.63 L</j.0:rating>
+    <j.0:price>Petrol+LPG"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>16.2 Km/l</j.0:range>
+    <j.0:style>Subcompact MPV</j.0:style>
+    <j.1:cars>Maruti Suzuki Eeco</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Discovery">
+    <j.0:rating>₹ 88.06 L - 1.26 Cr</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.2 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Land Rover Discovery</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Nissan_Kicks">
+    <j.0:rating>₹ 9.5 - 14.65 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>14.23 Km/l</j.0:range>
+    <j.0:style>SUV</j.0:style>
+    <j.1:cars>Nissan Kicks</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Bolero_Neo">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 8.77 - 10.99 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>17.29 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Mahindra Bolero Neo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_488_GTB">
+    <j.0:rating>8.8</j.0:rating>
+    <j.0:price>₹ 3.88 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.8 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Ferrari 488 GTB</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Celerio">
+    <j.0:rating>Petrol+CNG"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>24.97 - 26.68 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Celerio</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-Benz_CLA-Class">
+    <j.0:rating>₹ 31.72 - 36.99 L</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15 - 17.9 Km/l</j.0:range>
+    <j.0:style>Premium Compact Sedan</j.0:style>
+    <j.1:cars>Mercedes-Benz CLA-Class</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_LS">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 1.91 - 2.22 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15.4 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>Lexus LS</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maserati_Levante">
+    <j.0:rating>₹ 1.42 - 1.54 Cr</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>7.2 - 12.6 Km/l</j.0:range>
+    <j.0:style>Luxury SUV</j.0:style>
+    <j.1:cars>Maserati Levante</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_Ignis">
+    <j.0:rating>₹ 5.35 - 7.82 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"AMT</j.0:Transmission>
+    <j.0:range>20.89 Km/l</j.0:range>
+    <j.0:style>Compact Hatchback</j.0:style>
+    <j.1:cars>Maruti Suzuki Ignis</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Bentley_Flying_Spur">
+    <j.0:rating>7.3</j.0:rating>
+    <j.0:price>₹ 3.2 - 3.4 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 - 10.2 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Bentley Flying Spur</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_M3">
+    <j.0:rating>8.6</j.0:rating>
+    <j.0:price>₹ 1.3 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>10.8 Km/l</j.0:range>
+    <j.0:style>Performance Sedan</j.0:style>
+    <j.1:cars>BMW M3</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_RS5">
+    <j.0:rating>7.1</j.0:rating>
+    <j.0:price>₹ 1.09 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>11.1 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Audi RS5</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_3_Series_Gran_Turismo">
+    <j.0:rating>7.8</j.0:rating>
+    <j.0:price>₹ 42.5 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.95 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>BMW 3 Series Gran Turismo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Jaguar_XJ">
+    <j.0:rating>7.4</j.0:rating>
+    <j.0:price>₹ 1.11 Cr</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.5 Km/l</j.0:range>
+    <j.0:style>Premium Luxury Sedan</j.0:style>
+    <j.1:cars>Jaguar XJ</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Maruti_Suzuki_XL6">
+    <j.0:rating>₹ 11.29 - 14.55 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>20.27 - 20.97 Km/l</j.0:range>
+    <j.0:style>Fullsize/Premium MPV</j.0:style>
+    <j.1:cars>Maruti Suzuki XL6</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Land_Rover_Range_Rover_Evoque">
+    <j.0:rating>₹ 64.12 - 66.6 L</j.0:rating>
+    <j.0:price>Petrol"</j.0:price>
+    <j.0:VehicleType>"Diesel</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>15 - 15.68 Km/l</j.0:range>
+    <j.0:style>Premium Compact SUV</j.0:style>
+    <j.1:cars>Land Rover Range Rover Evoque</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_3_Series">
+    <j.0:rating>₹ 46.9 - 65.9 L</j.0:rating>
+    <j.0:price>Diesel"</j.0:price>
+    <j.0:VehicleType>"Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.13 - 20.37 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>BMW 3 Series</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_Q7">
+    <j.0:rating>8.4</j.0:rating>
+    <j.0:price>₹ 82.49 - 89.9 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>N/A</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Audi Q7</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Toyota_Vellfire">
+    <j.0:rating>6.8</j.0:rating>
+    <j.0:price>₹ 90.8 L</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>58 Km/l</j.0:range>
+    <j.0:style>Fullsize/Premium MPV</j.0:style>
+    <j.1:cars>Toyota Vellfire</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_X5_M">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 2.08 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.29 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>BMW X5 M</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_C_63_S">
+    <j.0:rating>6.9</j.0:rating>
+    <j.0:price>₹ 1.33 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.49 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Mercedes-AMG C 63 S</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_ES">
+    <j.0:rating>6.5</j.0:rating>
+    <j.0:price>₹ 56.55 - 61.75 L</j.0:price>
+    <j.0:VehicleType>Hybrid</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>22.58 Km/l</j.0:range>
+    <j.0:style>Premium Midsize Sedan</j.0:style>
+    <j.1:cars>Lexus ES</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Rolls-Royce_Dawn">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 5.92 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.4 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Rolls-Royce Dawn</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mahindra_Marazzo">
+    <j.0:rating>8.3</j.0:rating>
+    <j.0:price>₹ 12.42 - 14.57 L</j.0:price>
+    <j.0:VehicleType>Diesel</j.0:VehicleType>
+    <j.0:Transmission>Manual</j.0:Transmission>
+    <j.0:range>17.6 Km/l</j.0:range>
+    <j.0:style>Compact MPV</j.0:style>
+    <j.1:cars>Mahindra Marazzo</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/BMW_M2">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 85 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.4 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>BMW M2</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_E-Tron_GT">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 1.8 Cr</j.0:price>
+    <j.0:VehicleType>Electric</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>388 Km/Full Charge</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Audi E-Tron GT</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Hyundai_Venue">
+    <j.0:rating>Diesel"</j.0:rating>
+    <j.0:price>"Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>17.5 - 23.7 Km/l</j.0:range>
+    <j.0:style>Subcompact SUV</j.0:style>
+    <j.1:cars>Hyundai Venue</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_G_63">
+    <j.0:rating>7.3</j.0:rating>
+    <j.0:price>₹ 2.28 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.5 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize SUV</j.0:style>
+    <j.1:cars>Mercedes-AMG G 63</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_A6">
+    <j.0:rating>7.6</j.0:rating>
+    <j.0:price>₹ 59.99 - 65.99 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>14.11 Km/l</j.0:range>
+    <j.0:style>Premium Fullsize Sedan</j.0:style>
+    <j.1:cars>Audi A6</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Nissan_GT-R">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 2.12 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Nissan GT-R</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_SF90_Stradale">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 7.5 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>18 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Ferrari SF90 Stradale</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Porsche_Macan">
+    <j.0:rating>6.5</j.0:rating>
+    <j.0:price>₹ 83.21 L</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>13.2 Km/l</j.0:range>
+    <j.0:style>Premium Compact SUV</j.0:style>
+    <j.1:cars>Porsche Macan</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Datsun_Go">
+    <j.0:rating>₹ 4.03 - 6.51 L</j.0:rating>
+    <j.0:price>Petrol</j.0:price>
+    <j.0:VehicleType>Manual"</j.0:VehicleType>
+    <j.0:Transmission>"Automatic</j.0:Transmission>
+    <j.0:range>19.02 - 19.59 Km/l</j.0:range>
+    <j.0:style>Entry Hatchback</j.0:style>
+    <j.1:cars>Datsun Go</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Mercedes-AMG_GT">
+    <j.0:rating>8.2</j.0:rating>
+    <j.0:price>₹ 2.27 - 2.48 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>9.3 - 11.4 Km/l</j.0:range>
+    <j.0:style>Sports Car</j.0:style>
+    <j.1:cars>Mercedes-AMG GT</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Audi_R8">
+    <j.0:rating>7.5</j.0:rating>
+    <j.0:price>₹ 2.72 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.1 Km/l</j.0:range>
+    <j.0:style>Supersports Car</j.0:style>
+    <j.1:cars>Audi R8</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Lexus_RC_F">
+    <j.0:rating>na</j.0:rating>
+    <j.0:price>₹ 2 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>16.1 Km/l</j.0:range>
+    <j.0:style>Premium Coupe</j.0:style>
+    <j.1:cars>Lexus RC F</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://dbpedia.org/page/Ferrari_GTC4Lusso">
+    <j.0:rating>7.9</j.0:rating>
+    <j.0:price>₹ 4.2 - 5.2 Cr</j.0:price>
+    <j.0:VehicleType>Petrol</j.0:VehicleType>
+    <j.0:Transmission>Automatic</j.0:Transmission>
+    <j.0:range>8.8 - 9 Km/l</j.0:range>
+    <j.0:style>Premium Sports Coupe</j.0:style>
+    <j.1:cars>Ferrari GTC4Lusso</j.1:cars>
+    <j.2:cars rdf:resource="https://dbpedia.org/ontology/cars"/>
+  </rdf:Description>
+</rdf:RDF>

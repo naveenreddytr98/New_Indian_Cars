@@ -1,0 +1,4263 @@
+<https://dbpedia.org/resource/₹ 79.9 - 95.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 79.9 - 95.9 L" .
+
+<https://dbpedia.org/resource/₹_1.91_-_2.22_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.91 - 2.22 Cr" .
+
+<https://dbpedia.org/resource/Maserati_Levante>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maserati Levante" .
+
+<https://dbpedia.org/resource/Lexus_LC>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus LC" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_A_35>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG A 35" .
+
+<https://dbpedia.org/resource/₹ 75.15 L - 1.07 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 75.15 L - 1.07 Cr" .
+
+<https://dbpedia.org/resource/24.97 - 26.68 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "24.97 - 26.68 Km/l" .
+
+<https://dbpedia.org/resource/10 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10 Km/l" .
+
+<https://dbpedia.org/resource/Lexus_RX>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus RX" .
+
+<https://dbpedia.org/resource/13.95 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.95 Km/l" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Vitara_Brezza>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Vitara Brezza" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_EQC>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz EQC" .
+
+<https://dbpedia.org/resource/Force_Motors_Gurkha>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Force Motors Gurkha" .
+
+<https://dbpedia.org/resource/Ferrari_SF90_Stradale>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari SF90 Stradale" .
+
+<https://dbpedia.org/resource/19 - 24.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19 - 24.4 Km/l" .
+
+<https://dbpedia.org/resource/Hyundai_Creta>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Creta" .
+
+<https://dbpedia.org/resource/₹_2_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2 Cr" .
+
+<https://dbpedia.org/resource/₹_34.2_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 34.2 L" .
+
+<https://dbpedia.org/resource/Kia_Seltos>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Kia Seltos" .
+
+<https://dbpedia.org/resource/₹ 9.86 - 14.25 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 9.86 - 14.25 L" .
+
+<https://dbpedia.org/resource/BMW_X5_M>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X5 M" .
+
+<https://dbpedia.org/resource/₹_1.05_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.05 Cr" .
+
+<https://dbpedia.org/resource/Ferrari_812_Superfast>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari 812 Superfast" .
+
+<https://dbpedia.org/resource/₹_76.5_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 76.5 L" .
+
+<https://dbpedia.org/resource/₹_2.24_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.24 Cr" .
+
+<https://dbpedia.org/resource/13.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.8 Km/l" .
+
+<https://dbpedia.org/resource/Audi_Q5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi Q5" .
+
+<https://dbpedia.org/resource/Mercedes-Maybach_GLS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Maybach GLS" .
+
+<https://dbpedia.org/resource/Midsize Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Midsize Sedan" .
+
+<https://dbpedia.org/resource/Jeep_Compass>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jeep Compass" .
+
+<https://dbpedia.org/resource/₹_53.9_-_57.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 53.9 - 57.9 L" .
+
+<https://dbpedia.org/resource/₹_64.9_-_71.6_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 64.9 - 71.6 L" .
+
+<https://dbpedia.org/resource/Audi_RS_Q8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi RS Q8" .
+
+<https://dbpedia.org/resource/7.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.8 Km/l" .
+
+<https://dbpedia.org/resource/16.09 - 18.19 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.09 - 18.19 Km/l" .
+
+<https://dbpedia.org/resource/₹ 8.83 - 11.86 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 8.83 - 11.86 L" .
+
+<https://dbpedia.org/resource/₹_5.2_-_7.95_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.2 - 7.95 Cr" .
+
+<https://dbpedia.org/resource/₹_33.82_-_36.27_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 33.82 - 36.27 L" .
+
+<https://dbpedia.org/resource/Porsche_Cayenne>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Cayenne" .
+
+<https://dbpedia.org/resource/Premium Sports Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Premium Sports Sedan" .
+
+<https://dbpedia.org/resource/Compact Hatchback>
+        <https://dbpedia.org/ontology/style>
+                "Compact Hatchback" .
+
+<https://dbpedia.org/resource/BMW_7_Series>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 7 Series" .
+
+<https://dbpedia.org/resource/₹_28.88_-_31.88_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 28.88 - 31.88 L" .
+
+<https://dbpedia.org/resource/Lamborghini_Aventador>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lamborghini Aventador" .
+
+<https://dbpedia.org/resource/10.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.8 Km/l" .
+
+<https://dbpedia.org/resource/₹ 7.72 - 9.96 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 7.72 - 9.96 L" .
+
+<https://dbpedia.org/resource/₹ 10 - 14.79 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 10 - 14.79 L" .
+
+<https://dbpedia.org/resource/Audi_R8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi R8" .
+
+<https://dbpedia.org/resource/Entry Hatchback>
+        <https://dbpedia.org/ontology/style>
+                "Entry Hatchback" .
+
+<https://dbpedia.org/resource/6.9>
+        <https://dbpedia.org/ontology/rating>
+                "6.9" .
+
+<https://dbpedia.org/resource/17.8 - 24.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.8 - 24.1 Km/l" .
+
+<https://dbpedia.org/resource/27.03 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "27.03 Km/l" .
+
+<https://dbpedia.org/resource/Hybrid>
+        <https://dbpedia.org/ontology/type>
+                "Hybrid" .
+
+<https://dbpedia.org/resource/Tata_Harrier>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Harrier" .
+
+<https://dbpedia.org/resource/9>
+        <https://dbpedia.org/ontology/rating>
+                "9" .
+
+<https://dbpedia.org/resource/BMW_X7>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X7" .
+
+<https://dbpedia.org/resource/23.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "23.1 Km/l" .
+
+<https://dbpedia.org/resource/19.01 - 26.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.01 - 26.2 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_C_43>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG C 43" .
+
+<https://dbpedia.org/resource/Audi_A4>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi A4" .
+
+<https://dbpedia.org/resource/₹ 9 - 11.99 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 9 - 11.99 L" .
+
+<https://dbpedia.org/resource/24.7 - 31.39 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "24.7 - 31.39 Km/l" .
+
+<https://dbpedia.org/resource/19.02 - 19.59 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.02 - 19.59 Km/l" .
+
+<https://dbpedia.org/resource/Hyundai_Verna>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Verna" .
+
+<https://dbpedia.org/resource/Premium Sports Coupe>
+        <https://dbpedia.org/ontology/style>
+                "Premium Sports Coupe" .
+
+<https://dbpedia.org/resource/Land_Rover_Discovery>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Discovery" .
+
+<https://dbpedia.org/resource/Jaguar_I-Pace>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar I-Pace" .
+
+<https://dbpedia.org/resource/Fullsize Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Fullsize Sedan" .
+
+<https://dbpedia.org/resource/Mahindra_Thar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Thar" .
+
+<https://dbpedia.org/resource/Kia_Carnival>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Kia Carnival" .
+
+<https://dbpedia.org/resource/₹_29.15_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 29.15 L" .
+
+<https://dbpedia.org/resource/MINI_3_door>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI 3 door" .
+
+<https://dbpedia.org/resource/₹_77.85_-_80.67_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 77.85 - 80.67 L" .
+
+<https://dbpedia.org/resource/7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7 Km/l" .
+
+<https://dbpedia.org/resource/Land_Rover_Range_Rover_Sport>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Range Rover Sport" .
+
+<https://dbpedia.org/resource/Land_Rover_Range_Rover_Evoque>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Range Rover Evoque" .
+
+<https://dbpedia.org/resource/₹ 2.64 - 2.84 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 2.64 - 2.84 L" .
+
+<https://dbpedia.org/resource/16 - 21 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16 - 21 Km/l" .
+
+<https://dbpedia.org/resource/Isuzu_D-Max_V-Cross>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Isuzu D-Max V-Cross" .
+
+<https://dbpedia.org/resource/Audi_TT>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi TT" .
+
+<https://dbpedia.org/resource/Maserati_GranTurismo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maserati GranTurismo" .
+
+<https://dbpedia.org/resource/13.86 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.86 Km/l" .
+
+<https://dbpedia.org/resource/MG_Hector_Plus>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MG Hector Plus" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GLC_43_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GLC 43 Coupe" .
+
+<https://dbpedia.org/resource/Bentley_Flying_Spur>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Bentley Flying Spur" .
+
+<https://dbpedia.org/resource/6.4>
+        <https://dbpedia.org/ontology/rating>
+                "6.4" .
+
+<https://dbpedia.org/resource/22.35 - 22.94 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "22.35 - 22.94 Km/l" .
+
+<https://dbpedia.org/resource/₹_21.35_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 21.35 L" .
+
+<https://dbpedia.org/resource/12.95 - 16.38 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.95 - 16.38 Km/l" .
+
+<https://dbpedia.org/resource/₹_1.11_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.11 Cr" .
+
+<https://dbpedia.org/resource/Manual">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Manual\"" ;
+        <https://dbpedia.org/ontology/type>
+                "Manual\"" .
+
+<https://dbpedia.org/resource/Petrol+LPG">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Petrol+LPG\"" .
+
+<https://dbpedia.org/resource/Ferrari_488_Spider>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari 488 Spider" .
+
+<https://dbpedia.org/resource/₹_29.98_-_37.28_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 29.98 - 37.28 L" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_GLE-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz GLE-Class" .
+
+<https://dbpedia.org/resource/15 - 15.37 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15 - 15.37 Km/l" .
+
+<https://dbpedia.org/resource/BMW_M2>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW M2" .
+
+<https://dbpedia.org/resource/Toyota_Camry>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Camry" .
+
+<https://dbpedia.org/resource/₹ 42 - 44 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 42 - 44 L" .
+
+<https://dbpedia.org/resource/₹_1.62_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.62 Cr" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_C_43_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG C 43 Coupe" .
+
+<https://dbpedia.org/resource/₹ 1.6 - 1.69 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.6 - 1.69 Cr" .
+
+<https://dbpedia.org/resource/₹_23.79_-_23.98_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 23.79 - 23.98 L" .
+
+<https://dbpedia.org/resource/₹ 4.26 - 7 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 4.26 - 7 L" .
+
+<https://dbpedia.org/resource/9.2 - 16.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.2 - 16.6 Km/l" .
+
+<https://dbpedia.org/resource/7.5>
+        <https://dbpedia.org/ontology/rating>
+                "7.5" .
+
+<https://dbpedia.org/resource/419 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "419 Km/Full Charge" .
+
+<https://dbpedia.org/resource/BMW_X3_M>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X3 M" .
+
+<https://dbpedia.org/resource/Jaguar_F-Pace>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar F-Pace" .
+
+<https://dbpedia.org/resource/20.25 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.25 Km/l" .
+
+<https://dbpedia.org/resource/Bentley_Continental>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Bentley Continental" .
+
+<https://dbpedia.org/resource/10.1 - 13.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.1 - 13.5 Km/l" .
+
+<https://dbpedia.org/resource/BMW_iX>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW iX" .
+
+<https://dbpedia.org/resource/Audi_E-Tron_GT_Sportback>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi E-Tron GT Sportback" .
+
+<https://dbpedia.org/resource/14.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.5 Km/l" .
+
+<https://dbpedia.org/resource/Renault_Triber>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Renault Triber" .
+
+<https://dbpedia.org/resource/₹_38_-_45.5_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 38 - 45.5 L" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_G-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz G-Class" .
+
+<https://dbpedia.org/resource/17.29 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.29 Km/l" .
+
+<https://dbpedia.org/resource/12.4 - 13.9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.4 - 13.9 Km/l" .
+
+<https://dbpedia.org/resource/Premium Compact Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Premium Compact Sedan" .
+
+<https://dbpedia.org/resource/Porsche_Boxster>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Boxster" .
+
+<https://dbpedia.org/resource/Mahindra_Bolero>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Bolero" .
+
+<https://dbpedia.org/resource/BYD_E6>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BYD E6" .
+
+<https://dbpedia.org/resource/Compact Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Compact Sedan" .
+
+<https://dbpedia.org/resource/₹_3.54_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.54 Cr" .
+
+<https://dbpedia.org/resource/CarModel>
+        <https://dbpedia.org/ontology/hasDifferent>
+                <https://dbpedia.org/resource/Style> ;
+        <https://dbpedia.org/ontology/hasPerformance>
+                <https://dbpedia.org/resource/Rating> ;
+        <https://dbpedia.org/ontology/hasPriceOf>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/isRunningOn>
+                <https://dbpedia.org/resource/VehicleType> ;
+        <https://dbpedia.org/ontology/typesOf>
+                <https://dbpedia.org/resource/Transmission> .
+
+<https://dbpedia.org/resource/8.6>
+        <https://dbpedia.org/ontology/rating>
+                "8.6" .
+
+<https://dbpedia.org/resource/₹_45.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 45.9 L" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GLA_35>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GLA 35" .
+
+<https://dbpedia.org/resource/na>
+        <https://dbpedia.org/ontology/rating>
+                "na" .
+
+<https://dbpedia.org/resource/Rolls-Royce_Wraith>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Rolls-Royce Wraith" .
+
+<https://dbpedia.org/resource/₹ 1.63 - 2.51 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.63 - 2.51 Cr" .
+
+<https://dbpedia.org/resource/₹_34.99_-_48.89_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 34.99 - 48.89 L" .
+
+<https://dbpedia.org/resource/12.06 - 14.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.06 - 14.2 Km/l" .
+
+<https://dbpedia.org/resource/₹_4.2_-_5.2_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.2 - 5.2 Cr" .
+
+<https://dbpedia.org/resource/₹_2.95_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.95 Cr" .
+
+<https://dbpedia.org/resource/Hyundai_Alcazar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Alcazar" .
+
+<https://dbpedia.org/resource/₹_2.33_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.33 Cr" .
+
+<https://dbpedia.org/resource/Volvo_XC90>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volvo XC90" .
+
+<https://dbpedia.org/resource/47.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "47.5 Km/l" .
+
+<https://dbpedia.org/resource/14.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.6 Km/l" .
+
+<https://dbpedia.org/resource/₹_3.3_-_4.4_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.3 - 4.4 Cr" .
+
+<https://dbpedia.org/resource/11.86 - 39.53 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.86 - 39.53 Km/l" .
+
+<https://dbpedia.org/resource/Tata_Tigor>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Tigor" .
+
+<https://dbpedia.org/resource/Renault_Kiger>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Renault Kiger" .
+
+<https://dbpedia.org/resource/₹_1.74_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.74 Cr" .
+
+<https://dbpedia.org/resource/₹_4.27_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.27 Cr" .
+
+<https://dbpedia.org/resource/₹_31.3_-_32.8_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 31.3 - 32.8 L" .
+
+<https://dbpedia.org/resource/₹_12.77_-_17.62_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 12.77 - 17.62 L" .
+
+<https://dbpedia.org/resource/437 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "437 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Audi_Q7>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi Q7" .
+
+<https://dbpedia.org/resource/₹_7.5_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 7.5 Cr" .
+
+<https://dbpedia.org/resource/15.81 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.81 Km/l" .
+
+<https://dbpedia.org/resource/10.85 - 15.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.85 - 15.3 Km/l" .
+
+<https://dbpedia.org/resource/Ford_Figo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ford Figo" .
+
+<https://dbpedia.org/resource/15.3 - 19.62 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.3 - 19.62 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_E_63_S>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG E 63 S" .
+
+<https://dbpedia.org/resource/Hyundai_Kona_Electric>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Kona Electric" .
+
+<https://dbpedia.org/resource/Mahindra_Scorpio>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Scorpio" .
+
+<https://dbpedia.org/resource/₹_1.8_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.8 Cr" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_CLS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz CLS" .
+
+<https://dbpedia.org/resource/Tata_Nexon_EV>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Nexon EV" .
+
+<https://dbpedia.org/resource/13.96 - 17.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.96 - 17.4 Km/l" .
+
+<https://dbpedia.org/resource/11.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.1 Km/l" .
+
+<https://dbpedia.org/resource/Audi_E-Tron_GT>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi E-Tron GT" .
+
+<https://dbpedia.org/resource/Renault_Duster>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Renault Duster" .
+
+<https://dbpedia.org/resource/₹_1.06_-_1.12_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.06 - 1.12 Cr" .
+
+<https://dbpedia.org/resource/21.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "21.2 Km/l" .
+
+<https://dbpedia.org/resource/16.8 - 21.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.8 - 21.4 Km/l" .
+
+<https://dbpedia.org/resource/8.1>
+        <https://dbpedia.org/ontology/rating>
+                "8.1" .
+
+<https://dbpedia.org/resource/₹_90.8_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 90.8 L" .
+
+<https://dbpedia.org/resource/₹_43.45_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 43.45 L" .
+
+<https://dbpedia.org/resource/8.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.2 Km/l" .
+
+<https://dbpedia.org/resource/11.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.6 Km/l" .
+
+<https://dbpedia.org/resource/₹_3.5_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.5 Cr" .
+
+<https://dbpedia.org/resource/18.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.6 Km/l" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Wagon_R>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Wagon R" .
+
+<https://dbpedia.org/resource/Hyundai_Elantra>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Elantra" .
+
+<https://dbpedia.org/resource/₹_5.87_-_5.97_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.87 - 5.97 L" .
+
+<https://dbpedia.org/resource/8.84 - 10.75 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.84 - 10.75 Km/l" .
+
+<https://dbpedia.org/resource/15.56 - 22.48 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.56 - 22.48 Km/l" .
+
+<https://dbpedia.org/resource/₹_5.2_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.2 Cr" .
+
+<https://dbpedia.org/resource/"Hybrid>
+        <https://dbpedia.org/ontology/type>
+                "\"Hybrid" .
+
+<https://dbpedia.org/resource/₹ 46.9 - 65.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 46.9 - 65.9 L" .
+
+<https://dbpedia.org/resource/17.84 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.84 Km/l" .
+
+<https://dbpedia.org/resource/₹_9.33_-_10.26_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 9.33 - 10.26 L" .
+
+<https://dbpedia.org/resource/₹_29.99_-_34.99_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 29.99 - 34.99 L" .
+
+<https://dbpedia.org/resource/Mahindra_Bolero_Big_Pik-Up>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Bolero Big Pik-Up" .
+
+<https://dbpedia.org/resource/Subcompact Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Subcompact Sedan" .
+
+<https://dbpedia.org/resource/14.12 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.12 Km/l" .
+
+<https://dbpedia.org/resource/11.76 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.76 Km/l" .
+
+<https://dbpedia.org/resource/₹ 46.33 - 48.5 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 46.33 - 48.5 L" .
+
+<https://dbpedia.org/resource/8.6 - 12.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.6 - 12.8 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.43_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.43 Cr" .
+
+<https://dbpedia.org/resource/Tata_Nexon>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Nexon" .
+
+<https://dbpedia.org/resource/Audi_Q2>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi Q2" .
+
+<https://dbpedia.org/resource/Ferrari_488_GTB>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari 488 GTB" .
+
+<https://dbpedia.org/resource/16.24 - 18.97 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.24 - 18.97 Km/l" .
+
+<https://dbpedia.org/resource/Bajaj_Qute>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Bajaj Qute" .
+
+<https://dbpedia.org/resource/Premium Midsize SUV>
+        <https://dbpedia.org/ontology/style>
+                "Premium Midsize SUV" .
+
+<https://dbpedia.org/resource/Nissan_Kicks>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Nissan Kicks" .
+
+<https://dbpedia.org/resource/Audi_A6>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi A6" .
+
+<https://dbpedia.org/resource/₹_77.25_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 77.25 L" .
+
+<https://dbpedia.org/resource/₹_2.08_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.08 Cr" .
+
+<https://dbpedia.org/resource/₹ 6.49 - 9.71 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 6.49 - 9.71 L" .
+
+<https://dbpedia.org/resource/Ford_Freestyle>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ford Freestyle" .
+
+<https://dbpedia.org/resource/₹ 64.5 - 74.5 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 64.5 - 74.5 L" .
+
+<https://dbpedia.org/resource/₹_48.74_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 48.74 L" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_A_45>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG A 45" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_S-Presso>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki S-Presso" .
+
+<https://dbpedia.org/resource/Honda_WR-V>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Honda WR-V" .
+
+<https://dbpedia.org/resource/SsangYong_Rexton_W>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "SsangYong Rexton W" .
+
+<https://dbpedia.org/resource/Nissan_GT-R>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Nissan GT-R" .
+
+<https://dbpedia.org/resource/Lamborghini_Huracan_EVO_RWD_Spyder>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lamborghini Huracan EVO RWD Spyder" .
+
+<https://dbpedia.org/resource/Jaguar_XJ>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar XJ" .
+
+<https://dbpedia.org/resource/Performance Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Performance Sedan" .
+
+<https://dbpedia.org/resource/₹_1.82_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.82 Cr" .
+
+<https://dbpedia.org/resource/₹ 1.18 - 1.79 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.18 - 1.79 Cr" .
+
+<https://dbpedia.org/resource/8.29 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.29 Km/l" .
+
+<https://dbpedia.org/resource/12.78 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.78 Km/l" .
+
+<https://dbpedia.org/resource/18.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.3 Km/l" .
+
+<https://dbpedia.org/resource/Midsize SUV>
+        <https://dbpedia.org/ontology/style>
+                "Midsize SUV" .
+
+<https://dbpedia.org/resource/21.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "21.4 Km/l" .
+
+<https://dbpedia.org/resource/BMW_i8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW i8" .
+
+<https://dbpedia.org/resource/14.1 - 16.97 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.1 - 16.97 Km/l" .
+
+<https://dbpedia.org/resource/20 - 28 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20 - 28 Km/l" .
+
+<https://dbpedia.org/resource/17.1 - 18.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.1 - 18.2 Km/l" .
+
+<https://dbpedia.org/resource/6.6>
+        <https://dbpedia.org/ontology/rating>
+                "6.6" .
+
+<https://dbpedia.org/resource/Skoda_Rapid>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Rapid" .
+
+<https://dbpedia.org/resource/5.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "5.8 Km/l" .
+
+<https://dbpedia.org/resource/14.2 - 20.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.2 - 20.4 Km/l" .
+
+<https://dbpedia.org/resource/₹ 76.57 L - 1.12 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 76.57 L - 1.12 Cr" .
+
+<https://dbpedia.org/resource/17.45 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.45 Km/l" .
+
+<https://dbpedia.org/resource/17.03 - 18.76 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.03 - 18.76 Km/l" .
+
+<https://dbpedia.org/resource/₹_4.79_-_5.32_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.79 - 5.32 Cr" .
+
+<https://dbpedia.org/resource/13.05 - 13.06 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.05 - 13.06 Km/l" .
+
+<https://dbpedia.org/resource/BMW_X4>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X4" .
+
+<https://dbpedia.org/resource/₹ 14.65 - 21.95 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 14.65 - 21.95 L" .
+
+<https://dbpedia.org/resource/425 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "425 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_XL6>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki XL6" .
+
+<https://dbpedia.org/resource/BMW_M4>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW M4" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_E-Class_All-Terrain>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz E-Class All-Terrain" .
+
+<https://dbpedia.org/resource/7.9 - 10.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.9 - 10.7 Km/l" .
+
+<https://dbpedia.org/resource/₹ 4.03 - 6.51 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 4.03 - 6.51 L" .
+
+<https://dbpedia.org/resource/7.7>
+        <https://dbpedia.org/ontology/rating>
+                "7.7" .
+
+<https://dbpedia.org/resource/₹ 67 - 85 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 67 - 85 L" .
+
+<https://dbpedia.org/resource/₹ 1.19 - 1.92 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.19 - 1.92 Cr" .
+
+<https://dbpedia.org/resource/Land_Rover_Range_Rover>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Range Rover" .
+
+<https://dbpedia.org/resource/18.16 - 24.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.16 - 24.4 Km/l" .
+
+<https://dbpedia.org/resource/415 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "415 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Rolls-Royce_Phantom>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Rolls-Royce Phantom" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_E_53>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG E 53" .
+
+<https://dbpedia.org/resource/₹_41.25_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 41.25 L" .
+
+<https://dbpedia.org/resource/Ferrari_Portofino>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari Portofino" .
+
+<https://dbpedia.org/resource/Jaguar_XE>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar XE" .
+
+<https://dbpedia.org/resource/Jeep_Wrangler_Unlimited>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jeep Wrangler Unlimited" .
+
+<https://dbpedia.org/resource/17.1 - 21.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.1 - 21.4 Km/l" .
+
+<https://dbpedia.org/resource/18.6 - 25.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.6 - 25.2 Km/l" .
+
+<https://dbpedia.org/resource/₹ 7.28 - 8.73 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 7.28 - 8.73 L" .
+
+<https://dbpedia.org/resource/Jeep_Grand_Cherokee>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jeep Grand Cherokee" .
+
+<https://dbpedia.org/resource/Hyundai_Tucson>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Tucson" .
+
+<https://dbpedia.org/resource/Volvo_S90>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volvo S90" .
+
+<https://dbpedia.org/resource/₹ 8.37 - 9.06 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 8.37 - 9.06 L" .
+
+<https://dbpedia.org/resource/₹_3.61_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.61 Cr" .
+
+<https://dbpedia.org/resource/₹ 8.95 - 12.92 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 8.95 - 12.92 L" .
+
+<https://dbpedia.org/resource/8.8>
+        <https://dbpedia.org/ontology/rating>
+                "8.8" .
+
+<https://dbpedia.org/resource/Datsun_Go_Plus>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Datsun Go Plus" .
+
+<https://dbpedia.org/resource/Hyundai_i20_N_Line>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai i20 N Line" .
+
+<https://dbpedia.org/resource/58 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "58 Km/l" .
+
+<https://dbpedia.org/resource/6.1>
+        <https://dbpedia.org/ontology/rating>
+                "6.1" .
+
+<https://dbpedia.org/resource/20 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20 Km/l" .
+
+<https://dbpedia.org/resource/13 - 17 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13 - 17 Km/l" .
+
+<https://dbpedia.org/resource/Petrol">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Petrol\"" .
+
+<https://dbpedia.org/resource/17.2 - 19.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.2 - 19.2 Km/l" .
+
+<https://dbpedia.org/resource/9.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.4 Km/l" .
+
+<https://dbpedia.org/resource/₹_26.29_-_29.29_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 26.29 - 29.29 L" .
+
+<https://dbpedia.org/resource/12.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.8 Km/l" .
+
+<https://dbpedia.org/resource/12.35 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.35 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.05_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.05 Cr" .
+
+<https://dbpedia.org/resource/Volvo_XC60>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volvo XC60" .
+
+<https://dbpedia.org/resource/Ferrari_California>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari California" .
+
+<https://dbpedia.org/resource/17.7 - 20 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.7 - 20 Km/l" .
+
+<https://dbpedia.org/resource/9.3 - 11.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.3 - 11.4 Km/l" .
+
+<https://dbpedia.org/resource/7.2>
+        <https://dbpedia.org/ontology/rating>
+                "7.2" .
+
+<https://dbpedia.org/resource/₹ 62 - 68 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 62 - 68 L" .
+
+<https://dbpedia.org/resource/Lexus_LX>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus LX" .
+
+<https://dbpedia.org/resource/13.06 - 16.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.06 - 16.5 Km/l" .
+
+<https://dbpedia.org/resource/12.75 - 16.35 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.75 - 16.35 Km/l" .
+
+<https://dbpedia.org/resource/₹_33.3_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 33.3 L" .
+
+<https://dbpedia.org/resource/Volkswagen_Tiguan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen Tiguan" .
+
+<https://dbpedia.org/resource/Land_Rover_Range_Rover_Velar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Range Rover Velar" .
+
+<https://dbpedia.org/resource/₹ 5.92 - 8.85 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.92 - 8.85 L" .
+
+<https://dbpedia.org/resource/₹_12.42_-_14.57_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 12.42 - 14.57 L" .
+
+<https://dbpedia.org/resource/₹_86.39_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 86.39 L" .
+
+<https://dbpedia.org/resource/SUV>
+        <https://dbpedia.org/ontology/style>
+                "SUV" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Ertiga>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Ertiga" .
+
+<https://dbpedia.org/resource/Mahindra_Bolero_Camper>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Bolero Camper" .
+
+<https://dbpedia.org/resource/452 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "452 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Volkswagen_Taigun>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen Taigun" .
+
+<https://dbpedia.org/resource/₹_1.44_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.44 Cr" .
+
+<https://dbpedia.org/resource/₹_5.55_-_6.6_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.55 - 6.6 Cr" .
+
+<https://dbpedia.org/resource/9.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.5 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GT>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GT" .
+
+<https://dbpedia.org/resource/8.3>
+        <https://dbpedia.org/ontology/rating>
+                "8.3" .
+
+<https://dbpedia.org/resource/Porsche_Taycan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Taycan" .
+
+<https://dbpedia.org/resource/₹ 8.88 - 11.58 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 8.88 - 11.58 L" .
+
+<https://dbpedia.org/resource/471 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "471 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Luxury Hatchback>
+        <https://dbpedia.org/ontology/style>
+                "Luxury Hatchback" .
+
+<https://dbpedia.org/resource/₹_34.99_-_37.49_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 34.99 - 37.49 L" .
+
+<https://dbpedia.org/resource/14.82 - 19.62 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.82 - 19.62 Km/l" .
+
+<https://dbpedia.org/resource/₹_1.09_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.09 Cr" .
+
+<https://dbpedia.org/resource/₹ 11.4 - 18.6 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 11.4 - 18.6 L" .
+
+<https://dbpedia.org/resource/₹ 64.12 - 66.6 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 64.12 - 66.6 L" .
+
+<https://dbpedia.org/resource/Petrol+CNG">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Petrol+CNG\"" ;
+        <https://dbpedia.org/ontology/rating>
+                "Petrol+CNG\"" .
+
+<https://dbpedia.org/resource/12.65 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.65 Km/l" .
+
+<https://dbpedia.org/resource/₹ 31.72 - 36.99 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 31.72 - 36.99 L" .
+
+<https://dbpedia.org/resource/Mahindra_Bolero_Pik-Up>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Bolero Pik-Up" .
+
+<https://dbpedia.org/resource/Datsun_Redi_GO>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Datsun Redi GO" .
+
+<https://dbpedia.org/resource/9.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.1 Km/l" .
+
+<https://dbpedia.org/resource/17.75 - 18.24 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.75 - 18.24 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.17_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.17 Cr" .
+
+<https://dbpedia.org/ontology/rating>
+        <https://dbpedia.org/ontology/hasPerformance>
+                <https://dbpedia.org/resource/Rating> .
+
+<https://dbpedia.org/resource/Aston_Martin_DBX>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Aston Martin DBX" .
+
+<https://dbpedia.org/resource/Premium Fullsize Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Premium Fullsize Sedan" .
+
+<https://dbpedia.org/resource/Lexus_LS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus LS" .
+
+<https://dbpedia.org/resource/Skoda_Octavia>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Octavia" .
+
+<https://dbpedia.org/resource/Porsche_Cayenne_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Cayenne Coupe" .
+
+<https://dbpedia.org/resource/₹_1.58_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.58 Cr" .
+
+<https://dbpedia.org/resource/15 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15 Km/l" .
+
+<https://dbpedia.org/resource/Rolls-Royce_Ghost>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Rolls-Royce Ghost" .
+
+<https://dbpedia.org/resource/₹_82.49_-_89.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 82.49 - 89.9 L" .
+
+<https://dbpedia.org/resource/Audi_A8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi A8" .
+
+<https://dbpedia.org/resource/BMW_3_Series>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 3 Series" .
+
+<https://dbpedia.org/resource/13.17 - 16.55 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.17 - 16.55 Km/l" .
+
+<https://dbpedia.org/resource/7.5 - 12.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.5 - 12.8 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GLA_45>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GLA 45" .
+
+<https://dbpedia.org/resource/₹_39.5_-_43.4_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 39.5 - 43.4 L" .
+
+<https://dbpedia.org/resource/Premium Midsize Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Premium Midsize Sedan" .
+
+<https://dbpedia.org/resource/Aston_Martin_Vantage>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Aston Martin Vantage" .
+
+<https://dbpedia.org/resource/Hyundai_Grand_i10_Nios>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Grand i10 Nios" .
+
+<https://dbpedia.org/resource/Ford_EcoSport>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ford EcoSport" .
+
+<https://dbpedia.org/resource/₹_57.28_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 57.28 L" .
+
+<https://dbpedia.org/resource/₹ 60.9 - 61.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 60.9 - 61.9 L" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Baleno_RS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Baleno RS" .
+
+<https://dbpedia.org/resource/470 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "470 Km/Full Charge" .
+
+<https://dbpedia.org/resource/₹_3.85_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.85 Cr" .
+
+<https://dbpedia.org/resource/BMW_X6_M>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X6 M" .
+
+<https://dbpedia.org/resource/Ferrari_Roma>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari Roma" .
+
+<https://dbpedia.org/resource/22 - 25 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "22 - 25 Km/l" .
+
+<https://dbpedia.org/resource/306 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "306 Km/Full Charge" .
+
+<https://dbpedia.org/resource/₹_9.5_-_11.35_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 9.5 - 11.35 Cr" .
+
+<https://dbpedia.org/resource/11 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11 Km/l" .
+
+<https://dbpedia.org/resource/Hybrid">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Hybrid\"" ;
+        <https://dbpedia.org/ontology/rating>
+                "Hybrid\"" .
+
+<https://dbpedia.org/resource/18.3 - 24.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.3 - 24.7 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_E-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz E-Class" .
+
+<https://dbpedia.org/resource/₹_57.06_-_60.89_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 57.06 - 60.89 L" .
+
+<https://dbpedia.org/resource/11.3 - 18 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.3 - 18 Km/l" .
+
+<https://dbpedia.org/resource/21.4 - 21.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "21.4 - 21.7 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_CLA_45>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG CLA 45" .
+
+<https://dbpedia.org/resource/17.5 - 25.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.5 - 25.5 Km/l" .
+
+<https://dbpedia.org/resource/Kia_Sonet>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Kia Sonet" .
+
+<https://dbpedia.org/resource/17.33 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.33 Km/l" .
+
+<https://dbpedia.org/resource/16 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16 Km/l" .
+
+<https://dbpedia.org/resource/₹ 33.99 - 36.8 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 33.99 - 36.8 L" .
+
+<https://dbpedia.org/resource/8.13 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.13 Km/l" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Ciaz>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Ciaz" .
+
+<https://dbpedia.org/resource/13.9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.9 Km/l" .
+
+<https://dbpedia.org/resource/₹_89.9_L_-_1.46_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 89.9 L - 1.46 Cr" .
+
+<https://dbpedia.org/resource/6.8>
+        <https://dbpedia.org/ontology/rating>
+                "6.8" .
+
+<https://dbpedia.org/resource/Volkswagen_T-Roc>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen T-Roc" .
+
+<https://dbpedia.org/resource/₹ 10.69 - 17.79 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 10.69 - 17.79 L" .
+
+<https://dbpedia.org/resource/Premium Luxury Sedan>
+        <https://dbpedia.org/ontology/style>
+                "Premium Luxury Sedan" .
+
+<https://dbpedia.org/resource/₹ 6.78 - 7.33 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 6.78 - 7.33 L" .
+
+<https://dbpedia.org/resource/10 - 12 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10 - 12 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.1_-_2.16_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.1 - 2.16 Cr" .
+
+<https://dbpedia.org/resource/Luxury SUV>
+        <https://dbpedia.org/ontology/style>
+                "Luxury SUV" .
+
+<https://dbpedia.org/resource/8>
+        <https://dbpedia.org/ontology/rating>
+                "8" .
+
+<https://dbpedia.org/resource/BMW_X6>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X6" .
+
+<https://dbpedia.org/resource/₹_2.62_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.62 Cr" .
+
+<https://dbpedia.org/resource/16.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.1 Km/l" .
+
+<https://dbpedia.org/resource/BMW_3_Series_Gran_Limousine>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 3 Series Gran Limousine" .
+
+<https://dbpedia.org/resource/12 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12 Km/l" .
+
+<https://dbpedia.org/resource/₹ 6.39 - 9.69 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 6.39 - 9.69 L" .
+
+<https://dbpedia.org/resource/Lamborghini_Urus>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lamborghini Urus" .
+
+<https://dbpedia.org/resource/20.71 - 22 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.71 - 22 Km/l" .
+
+<https://dbpedia.org/resource/₹ 5.83 - 9.49 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.83 - 9.49 L" .
+
+<https://dbpedia.org/resource/Isuzu_D-Max>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Isuzu D-Max" .
+
+<https://dbpedia.org/resource/N/A>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "N/A" .
+
+<https://dbpedia.org/resource/Toyota_Fortuner>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Fortuner" .
+
+<https://dbpedia.org/resource/8.8 - 9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.8 - 9 Km/l" .
+
+<https://dbpedia.org/resource/₹ 2.32 - 3.41 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 2.32 - 3.41 Cr" .
+
+<https://dbpedia.org/resource/13.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.5 Km/l" .
+
+<https://dbpedia.org/resource/7.9>
+        <https://dbpedia.org/ontology/rating>
+                "7.9" .
+
+<https://dbpedia.org/resource/Isuzu_MU-X>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Isuzu MU-X" .
+
+<https://dbpedia.org/resource/7.75 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.75 Km/l" .
+
+<https://dbpedia.org/resource/₹ 5.59 - 10 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.59 - 10 L" .
+
+<https://dbpedia.org/resource/20.2 - 26.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.2 - 26.2 Km/l" .
+
+<https://dbpedia.org/resource/₹_3_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3 Cr" .
+
+<https://dbpedia.org/resource/10.54 - 13.38 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.54 - 13.38 Km/l" .
+
+<https://dbpedia.org/resource/₹ 88.06 L - 1.26 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 88.06 L - 1.26 Cr" .
+
+<https://dbpedia.org/resource/₹_1.06_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.06 Cr" .
+
+<https://dbpedia.org/resource/₹ 4.25 - 5.71 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 4.25 - 5.71 L" .
+
+<https://dbpedia.org/resource/Volkswagen_Tiguan_AllSpace>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen Tiguan AllSpace" .
+
+<https://dbpedia.org/resource/₹_1.82_-_1.99_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.82 - 1.99 Cr" .
+
+<https://dbpedia.org/resource/Mahindra_Alturas_G4>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Alturas G4" .
+
+<https://dbpedia.org/resource/Skoda_Superb>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Superb" .
+
+<https://dbpedia.org/resource/Jaguar_F-Type>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar F-Type" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_GLC>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz GLC" .
+
+<https://dbpedia.org/resource/₹_1_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1 Cr" .
+
+<https://dbpedia.org/resource/Lexus_ES>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus ES" .
+
+<https://dbpedia.org/resource/Tata_Punch>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Punch" .
+
+<https://dbpedia.org/resource/Volvo_S60>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volvo S60" .
+
+<https://dbpedia.org/resource/12.82 - 14.24 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.82 - 14.24 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.23_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.23 Cr" .
+
+<https://dbpedia.org/resource/6.3>
+        <https://dbpedia.org/ontology/rating>
+                "6.3" .
+
+<https://dbpedia.org/resource/9 - 9.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9 - 9.7 Km/l" .
+
+<https://dbpedia.org/resource/Premium Fullsize SUV>
+        <https://dbpedia.org/ontology/style>
+                "Premium Fullsize SUV" .
+
+<https://dbpedia.org/resource/35 - 43 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "35 - 43 Km/l" .
+
+<https://dbpedia.org/resource/₹_59.99_-_65.99_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 59.99 - 65.99 L" .
+
+<https://dbpedia.org/resource/₹_81.5_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 81.5 L" .
+
+<https://dbpedia.org/resource/401 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "401 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Ferrari_GTC4Lusso>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari GTC4Lusso" .
+
+<https://dbpedia.org/resource/₹_65.43_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 65.43 L" .
+
+<https://dbpedia.org/resource/BMW_X1>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X1" .
+
+<https://dbpedia.org/resource/Toyota_Glanza>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Glanza" .
+
+<https://dbpedia.org/resource/₹ 1 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1 Cr" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Celerio>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Celerio" .
+
+<https://dbpedia.org/resource/₹_89.9_-_96.65_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 89.9 - 96.65 L" .
+
+<https://dbpedia.org/resource/₹_77.5_-_87.48_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 77.5 - 87.48 L" .
+
+<https://dbpedia.org/resource/8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8 Km/l" .
+
+<https://dbpedia.org/resource/7.4>
+        <https://dbpedia.org/ontology/rating>
+                "7.4" .
+
+<https://dbpedia.org/resource/Supersports Car>
+        <https://dbpedia.org/ontology/style>
+                "Supersports Car" .
+
+<https://dbpedia.org/resource/20.27 - 20.97 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.27 - 20.97 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.72_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.72 Cr" .
+
+<https://dbpedia.org/resource/13.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.2 Km/l" .
+
+<https://dbpedia.org/resource/Skoda_Kushaq>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Kushaq" .
+
+<https://dbpedia.org/resource/Nissan_Magnite>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Nissan Magnite" .
+
+<https://dbpedia.org/resource/Compact SUV/Crossover>
+        <https://dbpedia.org/ontology/style>
+                "Compact SUV/Crossover" .
+
+<https://dbpedia.org/resource/Tata_Tigor_EV>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Tigor EV" .
+
+<https://dbpedia.org/resource/Audi_S5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi S5" .
+
+<https://dbpedia.org/resource/7.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.2 Km/l" .
+
+<https://dbpedia.org/resource/₹_6.2_-_7.86_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 6.2 - 7.86 L" .
+
+<https://dbpedia.org/resource/MG_Hector>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MG Hector" .
+
+<https://dbpedia.org/resource/10.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.6 Km/l" .
+
+<https://dbpedia.org/resource/₹_40.49_-_48.99_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 40.49 - 48.99 L" .
+
+<https://dbpedia.org/resource/₹_6.95_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 6.95 Cr" .
+
+<https://dbpedia.org/resource/17.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.6 Km/l" .
+
+<https://dbpedia.org/resource/₹_8.53_-_8.79_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 8.53 - 8.79 L" .
+
+<https://dbpedia.org/resource/22 - 31.12 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "22 - 31.12 Km/l" .
+
+<https://dbpedia.org/resource/₹_95.12_L_-_2.42_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 95.12 L - 2.42 Cr" .
+
+<https://dbpedia.org/resource/7.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.7 Km/l" .
+
+<https://dbpedia.org/resource/8.5>
+        <https://dbpedia.org/ontology/rating>
+                "8.5" .
+
+<https://dbpedia.org/resource/Diesel>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Diesel" ;
+        <https://dbpedia.org/ontology/rating>
+                "Diesel" ;
+        <https://dbpedia.org/ontology/type>
+                "Diesel" .
+
+<https://dbpedia.org/resource/400 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "400 Km/Full Charge" .
+
+<https://dbpedia.org/resource/MINI_5_door>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI 5 door" .
+
+<https://dbpedia.org/resource/₹_1.16_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.16 Cr" .
+
+<https://dbpedia.org/resource/Ferrari_F8_Tributo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ferrari F8 Tributo" .
+
+<https://dbpedia.org/resource/Honda_Jazz>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Honda Jazz" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_G_63>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG G 63" .
+
+<https://dbpedia.org/resource/16.9 - 23 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.9 - 23 Km/l" .
+
+<https://dbpedia.org/resource/9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9 Km/l" .
+
+<https://dbpedia.org/resource/18.2 - 24.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.2 - 24.1 Km/l" .
+
+<https://dbpedia.org/resource/₹ 15.25 - 23.46 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 15.25 - 23.46 L" .
+
+<https://dbpedia.org/resource/₹ 11.99 - 13.49 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 11.99 - 13.49 L" .
+
+<https://dbpedia.org/resource/₹_4.02_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.02 Cr" .
+
+<https://dbpedia.org/resource/MINI_Cooper_Convertible>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI Cooper Convertible" .
+
+<https://dbpedia.org/resource/14.59 - 14.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.59 - 14.6 Km/l" .
+
+<https://dbpedia.org/resource/Volkswagen_Vento>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen Vento" .
+
+<https://dbpedia.org/resource/8.7 - 8.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.7 - 8.8 Km/l" .
+
+<https://dbpedia.org/resource/Hyundai_Venue>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Venue" .
+
+<https://dbpedia.org/resource/Subcompact SUV>
+        <https://dbpedia.org/ontology/style>
+                "Subcompact SUV" .
+
+<https://dbpedia.org/resource/10.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.7 Km/l" .
+
+<https://dbpedia.org/resource/Bentley_Mulsanne>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Bentley Mulsanne" .
+
+<https://dbpedia.org/resource/MG_ZS_EV>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MG ZS EV" .
+
+<https://dbpedia.org/resource/Toyota_Vellfire>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Vellfire" .
+
+<https://dbpedia.org/resource/₹_17.74_-_19.24_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 17.74 - 19.24 L" .
+
+<https://dbpedia.org/resource/Skoda_Kodiaq>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Kodiaq" .
+
+<https://dbpedia.org/resource/₹_6.87_-_8.09_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 6.87 - 8.09 L" .
+
+<https://dbpedia.org/resource/₹_12.49_-_13.64_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 12.49 - 13.64 L" .
+
+<https://dbpedia.org/resource/Mahindra_Bolero_Neo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Bolero Neo" .
+
+<https://dbpedia.org/resource/₹ 71.9 - 73.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 71.9 - 73.9 L" .
+
+<https://dbpedia.org/resource/Toyota_Innova_Crysta>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Innova Crysta" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Ignis>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Ignis" .
+
+<https://dbpedia.org/resource/₹_39.4_-_44.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 39.4 - 44.9 L" .
+
+<https://dbpedia.org/resource/8.5 - 10.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.5 - 10.6 Km/l" .
+
+<https://dbpedia.org/resource/312 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "312 Km/Full Charge" .
+
+<https://dbpedia.org/resource/Lamborghini_Huracan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lamborghini Huracan" .
+
+<https://dbpedia.org/resource/₹_59.9_-_65.55_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 59.9 - 65.55 L" .
+
+<https://dbpedia.org/resource/₹ 11.29 - 14.55 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 11.29 - 14.55 L" .
+
+<https://dbpedia.org/resource/14.23 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.23 Km/l" .
+
+<https://dbpedia.org/resource/₹_99_L_-_1.29_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 99 L - 1.29 Cr" .
+
+<https://dbpedia.org/resource/Mahindra_Marazzo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra Marazzo" .
+
+<https://dbpedia.org/resource/₹_42.5_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 42.5 L" .
+
+<https://dbpedia.org/resource/₹ 79.87 - 80.71 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 79.87 - 80.71 L" .
+
+<https://dbpedia.org/resource/21.5 - 33.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "21.5 - 33.4 Km/l" .
+
+<https://dbpedia.org/resource/Subcompact MPV>
+        <https://dbpedia.org/ontology/style>
+                "Subcompact MPV" .
+
+<https://dbpedia.org/resource/₹_2.27_-_2.48_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.27 - 2.48 Cr" .
+
+<https://dbpedia.org/resource/15 - 15.68 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15 - 15.68 Km/l" .
+
+<https://dbpedia.org/resource/₹_32.79_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 32.79 L" .
+
+<https://dbpedia.org/resource/Tata_Tiago>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Tiago" .
+
+<https://dbpedia.org/resource/Land_Rover_Defender>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Defender" .
+
+<https://dbpedia.org/resource/388 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "388 Km/Full Charge" .
+
+<https://dbpedia.org/resource/20.89 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.89 Km/l" .
+
+<https://dbpedia.org/resource/₹ 7.84 - 11.33 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 7.84 - 11.33 L" .
+
+<https://dbpedia.org/resource/Hyundai_Grand_i10>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Grand i10" .
+
+<https://dbpedia.org/resource/17.5 - 23.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.5 - 23.7 Km/l" .
+
+<https://dbpedia.org/resource/₹ 72.5 - 87 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 72.5 - 87 L" .
+
+<https://dbpedia.org/resource/Audi_RS5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi RS5" .
+
+<https://dbpedia.org/resource/Premium Hatchback>
+        <https://dbpedia.org/ontology/style>
+                "Premium Hatchback" .
+
+<https://dbpedia.org/resource/Bentley_Bentayga>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Bentley Bentayga" .
+
+<https://dbpedia.org/resource/8.5 - 10.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.5 - 10.2 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GLS_63>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GLS 63" .
+
+<https://dbpedia.org/resource/22.58 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "22.58 Km/l" .
+
+<https://dbpedia.org/resource/13.8 - 13.84 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.8 - 13.84 Km/l" .
+
+<https://dbpedia.org/resource/₹_55.4_-_69.24_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 55.4 - 69.24 L" .
+
+<https://dbpedia.org/resource/Volkswagen_Polo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volkswagen Polo" .
+
+<https://dbpedia.org/resource/MINI_SE>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI SE" .
+
+<https://dbpedia.org/resource/₹_1.77_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.77 Cr" .
+
+<https://dbpedia.org/resource/14.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.3 Km/l" .
+
+<https://dbpedia.org/resource/14.28 - 18.65 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.28 - 18.65 Km/l" .
+
+<https://dbpedia.org/resource/₹_3.2_-_3.4_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.2 - 3.4 Cr" .
+
+<https://dbpedia.org/resource/Audi_A5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi A5" .
+
+<https://dbpedia.org/resource/BMW_M8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW M8" .
+
+<https://dbpedia.org/resource/₹_1.53_-_2.07_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.53 - 2.07 Cr" .
+
+<https://dbpedia.org/resource/Mahindra_XUV700>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra XUV700" .
+
+<https://dbpedia.org/resource/₹ 3.8 - 4.96 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 3.8 - 4.96 L" .
+
+<https://dbpedia.org/resource/₹_1.45_-_2.43_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.45 - 2.43 Cr" .
+
+<https://dbpedia.org/resource/₹ 5.35 - 7.82 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.35 - 7.82 L" .
+
+<https://dbpedia.org/resource/Mahindra_KUV100>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra KUV100" .
+
+<https://dbpedia.org/resource/₹_2.6_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.6 Cr" .
+
+<https://dbpedia.org/resource/Renault_Kwid>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Renault Kwid" .
+
+<https://dbpedia.org/resource/8.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.8 Km/l" .
+
+<https://dbpedia.org/resource/₹_1.01_-_1.19_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.01 - 1.19 Cr" .
+
+<https://dbpedia.org/resource/₹_56.55_-_61.75_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 56.55 - 61.75 L" .
+
+<https://dbpedia.org/resource/23.84 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "23.84 Km/l" .
+
+<https://dbpedia.org/resource/Skoda_Slavia>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Skoda Slavia" .
+
+<https://dbpedia.org/resource/19.05 - 25.11 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.05 - 25.11 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_CLA-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz CLA-Class" .
+
+<https://dbpedia.org/resource/₹_3.8_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.8 Cr" .
+
+<https://dbpedia.org/resource/14.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.4 Km/l" .
+
+<https://dbpedia.org/resource/Ford_Figo_Aspire>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ford Figo Aspire" .
+
+<https://dbpedia.org/resource/11.24 - 13.38 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.24 - 13.38 Km/l" .
+
+<https://dbpedia.org/resource/20.3 - 30.48 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.3 - 30.48 Km/l" .
+
+<https://dbpedia.org/resource/Quadricycle>
+        <https://dbpedia.org/ontology/style>
+                "Quadricycle" .
+
+<https://dbpedia.org/resource/11.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.3 Km/l" .
+
+<https://dbpedia.org/resource/₹ 69.99 L - 1.51 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 69.99 L - 1.51 Cr" .
+
+<https://dbpedia.org/resource/6.5>
+        <https://dbpedia.org/ontology/rating>
+                "6.5" .
+
+<https://dbpedia.org/resource/BMW_8_Series>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 8 Series" .
+
+<https://dbpedia.org/resource/Petrol>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Petrol" ;
+        <https://dbpedia.org/ontology/rating>
+                "Petrol" ;
+        <https://dbpedia.org/ontology/type>
+                "Petrol" .
+
+<https://dbpedia.org/resource/₹_5.5_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.5 Cr" .
+
+<https://dbpedia.org/resource/₹_8.93_-_9.42_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 8.93 - 9.42 L" .
+
+<https://dbpedia.org/resource/18.8 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.8 Km/l" .
+
+<https://dbpedia.org/resource/5>
+        <https://dbpedia.org/ontology/rating>
+                "5" .
+
+<https://dbpedia.org/resource/BMW_X3>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X3" .
+
+<https://dbpedia.org/resource/10.01 - 14.22 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.01 - 14.22 Km/l" .
+
+<https://dbpedia.org/resource/7.2 - 12.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "7.2 - 12.6 Km/l" .
+
+<https://dbpedia.org/resource/BMW_M3>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW M3" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_C_63_S>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG C 63 S" .
+
+<https://dbpedia.org/resource/₹ 3.39 - 5.03 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 3.39 - 5.03 L" .
+
+<https://dbpedia.org/resource/19.83 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.83 Km/l" .
+
+<https://dbpedia.org/resource/7.6>
+        <https://dbpedia.org/ontology/rating>
+                "7.6" .
+
+<https://dbpedia.org/resource/₹_13.99_-_17.4_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 13.99 - 17.4 L" .
+
+<https://dbpedia.org/resource/Hyundai_New_Santro>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai New Santro" .
+
+<https://dbpedia.org/resource/Mercedes-Maybach_S-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Maybach S-Class" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_GLA-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz GLA-Class" .
+
+<https://dbpedia.org/resource/₹_58_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 58 L" .
+
+<https://dbpedia.org/resource/11.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.4 Km/l" .
+
+<https://dbpedia.org/resource/₹_1.5_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.5 Cr" .
+
+<https://dbpedia.org/resource/Land_Rover_Discovery_Sport>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Land Rover Discovery Sport" .
+
+<https://dbpedia.org/resource/10.75 - 15.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.75 - 15.1 Km/l" .
+
+<https://dbpedia.org/resource/21.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "21.5 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.25_-_2.51_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.25 - 2.51 Cr" .
+
+<https://dbpedia.org/resource/18.43 - 18.55 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.43 - 18.55 Km/l" .
+
+<https://dbpedia.org/resource/8.5 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.5 Km/l" .
+
+<https://dbpedia.org/resource/₹ 55 - 61 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 55 - 61 L" .
+
+<https://dbpedia.org/resource/BMW_5_Series>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 5 Series" .
+
+<https://dbpedia.org/resource/Porsche_911>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche 911" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_SLC_43>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG SLC 43" .
+
+<https://dbpedia.org/resource/₹_5.92_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 5.92 Cr" .
+
+<https://dbpedia.org/resource/18.9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18.9 Km/l" .
+
+<https://dbpedia.org/resource/Datsun_Go>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Datsun Go" .
+
+<https://dbpedia.org/resource/"Diesel>
+        <https://dbpedia.org/ontology/type>
+                "\"Diesel" .
+
+<https://dbpedia.org/resource/Premium Coupe>
+        <https://dbpedia.org/ontology/style>
+                "Premium Coupe" .
+
+<https://dbpedia.org/resource/Tata_Nexon_EV_Max>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Nexon EV Max" .
+
+<https://dbpedia.org/resource/13 - 15.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13 - 15.2 Km/l" .
+
+<https://dbpedia.org/resource/Electric>
+        <https://dbpedia.org/ontology/type>
+                "Electric" .
+
+<https://dbpedia.org/resource/₹_1.3_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.3 Cr" .
+
+<https://dbpedia.org/resource/8.7>
+        <https://dbpedia.org/ontology/rating>
+                "8.7" .
+
+<https://dbpedia.org/resource/₹ 22.2 - 23.5 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 22.2 - 23.5 L" .
+
+<https://dbpedia.org/resource/270 Km/Full Charge>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "270 Km/Full Charge" .
+
+<https://dbpedia.org/resource/12.75 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.75 Km/l" .
+
+<https://dbpedia.org/resource/₹_21.99_-_25.88_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 21.99 - 25.88 L" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_C-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz C-Class" .
+
+<https://dbpedia.org/resource/₹ 6.55 - 10.25 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 6.55 - 10.25 L" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_S-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz S-Class" .
+
+<https://dbpedia.org/resource/15.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.4 Km/l" .
+
+<https://dbpedia.org/resource/16.13 - 20.37 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.13 - 20.37 Km/l" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Eeco>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Eeco" .
+
+<https://dbpedia.org/resource/Honda_Amaze>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Honda Amaze" .
+
+<https://dbpedia.org/resource/14.3 - 14.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.3 - 14.4 Km/l" .
+
+<https://dbpedia.org/resource/Audi_RS7_Sportback>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi RS7 Sportback" .
+
+<https://dbpedia.org/resource/₹ 1.32 - 1.98 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.32 - 1.98 Cr" .
+
+<https://dbpedia.org/resource/7.1>
+        <https://dbpedia.org/ontology/rating>
+                "7.1" .
+
+<https://dbpedia.org/resource/₹_1.04_-_1.38_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.04 - 1.38 Cr" .
+
+<https://dbpedia.org/resource/₹_61.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 61.9 L" .
+
+<https://dbpedia.org/resource/₹ 5.69 - 8.25 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.69 - 8.25 L" .
+
+<https://dbpedia.org/resource/14.49 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.49 Km/l" .
+
+<https://dbpedia.org/resource/Audi_Q8>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi Q8" .
+
+<https://dbpedia.org/resource/₹ 9.78 - 16.78 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 9.78 - 16.78 L" .
+
+<https://dbpedia.org/resource/₹_4.34_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.34 Cr" .
+
+<https://dbpedia.org/resource/₹ 5.12 - 5.92 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 5.12 - 5.92 L" .
+
+<https://dbpedia.org/resource/14.11 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.11 Km/l" .
+
+<https://dbpedia.org/resource/Hyundai_Elite_i20>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Elite i20" .
+
+<https://dbpedia.org/resource/13.1 - 19.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.1 - 19.3 Km/l" .
+
+<https://dbpedia.org/resource/15 - 17.9 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15 - 17.9 Km/l" .
+
+<https://dbpedia.org/resource/Toyota_Hilux>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Hilux" .
+
+<https://dbpedia.org/resource/₹_84.23_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 84.23 L" .
+
+<https://dbpedia.org/resource/MG_Astor>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MG Astor" .
+
+<https://dbpedia.org/resource/10.3 - 11.91 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.3 - 11.91 Km/l" .
+
+<https://dbpedia.org/resource/₹_8.77_-_10.99_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 8.77 - 10.99 L" .
+
+<https://dbpedia.org/resource/19.16 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.16 Km/l" .
+
+<https://dbpedia.org/resource/8.2>
+        <https://dbpedia.org/ontology/rating>
+                "8.2" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Baleno>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Baleno" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_V-Class>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz V-Class" .
+
+<https://dbpedia.org/resource/₹_8.89_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 8.89 L" .
+
+<https://dbpedia.org/resource/Kia_Carens>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Kia Carens" .
+
+<https://dbpedia.org/resource/₹ 88.24 L - 2.19 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 88.24 L - 2.19 Cr" .
+
+<https://dbpedia.org/resource/₹ 73.7 L - 1.25 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 73.7 L - 1.25 Cr" .
+
+<https://dbpedia.org/resource/Porsche_Cayman>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Cayman" .
+
+<https://dbpedia.org/resource/12.82 - 14.37 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.82 - 14.37 Km/l" .
+
+<https://dbpedia.org/resource/Volvo_XC40>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Volvo XC40" .
+
+<https://dbpedia.org/resource/Automatic>
+        <https://dbpedia.org/ontology/type>
+                "Automatic" ;
+        <https://dbpedia.org/property/feature>
+                "Automatic" .
+
+<https://dbpedia.org/resource/16.14 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.14 Km/l" .
+
+<https://dbpedia.org/resource/₹_1.33_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.33 Cr" .
+
+<https://dbpedia.org/resource/15.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.1 Km/l" .
+
+<https://dbpedia.org/resource/₹_37.1_-_44.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 37.1 - 44.9 L" .
+
+<https://dbpedia.org/resource/₹ 54.5 - 56.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 54.5 - 56.9 L" .
+
+<https://dbpedia.org/resource/17 - 20 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17 - 20 Km/l" .
+
+<https://dbpedia.org/resource/₹ 9.91 - 11.97 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 9.91 - 11.97 L" .
+
+<https://dbpedia.org/resource/Tata_Tiago_NRG>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Tiago NRG" .
+
+<https://dbpedia.org/resource/14.41 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.41 Km/l" .
+
+<https://dbpedia.org/resource/Maserati_Quattroporte>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maserati Quattroporte" .
+
+<https://dbpedia.org/resource/₹_4.99_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 4.99 Cr" .
+
+<https://dbpedia.org/resource/₹ 22.69 - 27.47 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 22.69 - 27.47 L" .
+
+<https://dbpedia.org/resource/22 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "22 Km/l" .
+
+<https://dbpedia.org/resource/Audi_E-Tron>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi E-Tron" .
+
+<https://dbpedia.org/resource/₹_47.2_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 47.2 L" .
+
+<https://dbpedia.org/resource/Lexus_RC_F>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus RC F" .
+
+<https://dbpedia.org/ontology/style>
+        <https://dbpedia.org/ontology/hasDifferent>
+                <https://dbpedia.org/resource/Style> .
+
+<https://dbpedia.org/resource/BMW_Z4>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW Z4" .
+
+<https://dbpedia.org/resource/9.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.6 Km/l" .
+
+<https://dbpedia.org/resource/11.2 - 12.4 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "11.2 - 12.4 Km/l" .
+
+<https://dbpedia.org/resource/Audi_RS_E-Tron_GT>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Audi RS E-Tron GT" .
+
+<https://dbpedia.org/resource/Petrol+CNG>
+        <https://dbpedia.org/ontology/rating>
+                "Petrol+CNG" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_GLE_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG GLE Coupe" .
+
+<https://dbpedia.org/resource/Mercedes-AMG_S_63_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-AMG S 63 Coupe" .
+
+<https://dbpedia.org/resource/20.04 - 20.65 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "20.04 - 20.65 Km/l" .
+
+<https://dbpedia.org/resource/17 - 21 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17 - 21 Km/l" .
+
+<https://dbpedia.org/resource/₹ 4.63 - 7.63 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 4.63 - 7.63 L" .
+
+<https://dbpedia.org/resource/12.1 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.1 Km/l" .
+
+<https://dbpedia.org/resource/Manual>
+        <https://dbpedia.org/property/feature>
+                "Manual" .
+
+<https://dbpedia.org/resource/10.31 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.31 Km/l" .
+
+<https://dbpedia.org/resource/MINI_Countryman>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI Countryman" .
+
+<https://dbpedia.org/resource/Ford_Endeavour>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Ford Endeavour" .
+
+<https://dbpedia.org/resource/9.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.2 Km/l" .
+
+<https://dbpedia.org/resource/Sports Car>
+        <https://dbpedia.org/ontology/style>
+                "Sports Car" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Dzire>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Dzire" .
+
+<https://dbpedia.org/resource/₹ 61.9 - 67.5 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 61.9 - 67.5 L" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Alto_800>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Alto 800" .
+
+<https://dbpedia.org/resource/"Petrol>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "\"Petrol" ;
+        <https://dbpedia.org/ontology/rating>
+                "\"Petrol" ;
+        <https://dbpedia.org/ontology/type>
+                "\"Petrol" .
+
+<https://dbpedia.org/resource/10.98 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "10.98 Km/l" .
+
+<https://dbpedia.org/resource/BMW_3_Series_Gran_Turismo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 3 Series Gran Turismo" .
+
+<https://dbpedia.org/resource/₹ 11.29 - 19.49 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 11.29 - 19.49 L" .
+
+<https://dbpedia.org/resource/₹ 49.58 - 61.41 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 49.58 - 61.41 L" .
+
+<https://dbpedia.org/resource/Diesel">
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "Diesel\"" ;
+        <https://dbpedia.org/ontology/rating>
+                "Diesel\"" .
+
+<https://dbpedia.org/resource/19.47 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "19.47 Km/l" .
+
+<https://dbpedia.org/resource/₹_2.5_-_3.2_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.5 - 3.2 Cr" .
+
+<https://dbpedia.org/resource/13.39 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.39 Km/l" .
+
+<https://dbpedia.org/resource/9.2 - 14.3 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.2 - 14.3 Km/l" .
+
+<https://dbpedia.org/resource/7>
+        <https://dbpedia.org/ontology/rating>
+                "7" .
+
+<https://dbpedia.org/resource/₹_83.21_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 83.21 L" .
+
+<https://dbpedia.org/resource/Porsche_Panamera>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Panamera" .
+
+<https://dbpedia.org/resource/BMW_X5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW X5" .
+
+<https://dbpedia.org/resource/Hyundai_Aura>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Hyundai Aura" .
+
+<https://dbpedia.org/resource/16.44 - 18.47 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.44 - 18.47 Km/l" .
+
+<https://dbpedia.org/resource/BMW_M5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW M5" .
+
+<https://dbpedia.org/resource/Lamborghini_Huracan_STO>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lamborghini Huracan STO" .
+
+<https://dbpedia.org/resource/₹_85_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 85 L" .
+
+<https://dbpedia.org/resource/"Automatic>
+        <https://dbpedia.org/property/feature>
+                "\"Automatic" .
+
+<https://dbpedia.org/resource/15.78 - 17.88 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "15.78 - 17.88 Km/l" .
+
+<https://dbpedia.org/resource/7.8>
+        <https://dbpedia.org/ontology/rating>
+                "7.8" .
+
+<https://dbpedia.org/resource/Rolls-Royce_Dawn>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Rolls-Royce Dawn" .
+
+<https://dbpedia.org/resource/14.82 - 19 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.82 - 19 Km/l" .
+
+<https://dbpedia.org/resource/16.9 - 16.94 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.9 - 16.94 Km/l" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_A-Class_Limousine>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz A-Class Limousine" .
+
+<https://dbpedia.org/resource/16.6 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.6 Km/l" .
+
+<https://dbpedia.org/resource/Premium Compact SUV>
+        <https://dbpedia.org/ontology/style>
+                "Premium Compact SUV" .
+
+<https://dbpedia.org/resource/Lexus_NX>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Lexus NX" .
+
+<https://dbpedia.org/resource/Jaguar_XF>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Jaguar XF" .
+
+<https://dbpedia.org/resource/6.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "6.7 Km/l" .
+
+<https://dbpedia.org/resource/₹ 41.5 - 44.5 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 41.5 - 44.5 L" .
+
+<https://dbpedia.org/resource/₹_86_L_-_1.63_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 86 L - 1.63 Cr" .
+
+<https://dbpedia.org/resource/Maserati_Ghibli>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maserati Ghibli" .
+
+<https://dbpedia.org/resource/12.01 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "12.01 Km/l" .
+
+<https://dbpedia.org/resource/BMW_6_Series_Gran_Turismo>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 6 Series Gran Turismo" .
+
+<https://dbpedia.org/resource/8.62 - 14 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "8.62 - 14 Km/l" .
+
+<https://dbpedia.org/resource/₹_3.88_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.88 Cr" .
+
+<https://dbpedia.org/resource/Mahindra_XUV300>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mahindra XUV300" .
+
+<https://dbpedia.org/resource/₹ 7.28 - 9.03 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 7.28 - 9.03 L" .
+
+<https://dbpedia.org/resource/Fullsize/Premium MPV>
+        <https://dbpedia.org/ontology/style>
+                "Fullsize/Premium MPV" .
+
+<https://dbpedia.org/resource/"AMT>
+        <https://dbpedia.org/property/feature>
+                "\"AMT" .
+
+<https://dbpedia.org/resource/₹ 16.98 - 24.49 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 16.98 - 24.49 L" .
+
+<https://dbpedia.org/resource/Toyota_Urban_Cruiser>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Toyota Urban Cruiser" .
+
+<https://dbpedia.org/resource/Tata_Safari>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Safari" .
+
+<https://dbpedia.org/resource/₹_1.57_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 1.57 Cr" .
+
+<https://dbpedia.org/resource/16.2 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "16.2 Km/l" .
+
+<https://dbpedia.org/resource/13 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13 Km/l" .
+
+<https://dbpedia.org/resource/14.7 - 21.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "14.7 - 21.7 Km/l" .
+
+<https://dbpedia.org/resource/Compact SUV>
+        <https://dbpedia.org/ontology/style>
+                "Compact SUV" .
+
+<https://dbpedia.org/resource/₹ 1.42 - 1.54 Cr>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 1.42 - 1.54 Cr" .
+
+<https://dbpedia.org/resource/Mercedes-Benz_GLS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Mercedes-Benz GLS" .
+
+<https://dbpedia.org/resource/18 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "18 Km/l" .
+
+<https://dbpedia.org/resource/Rolls-Royce_Cullinan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Rolls-Royce Cullinan" .
+
+<https://dbpedia.org/resource/17.5 - 21.35 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "17.5 - 21.35 Km/l" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Swift>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Swift" .
+
+<https://dbpedia.org/resource/₹_7.75_-_8.2_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 7.75 - 8.2 L" .
+
+<https://dbpedia.org/resource/BMW_2_Series_Gran_Coupe>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "BMW 2 Series Gran Coupe" .
+
+<https://dbpedia.org/resource/7.3>
+        <https://dbpedia.org/ontology/rating>
+                "7.3" .
+
+<https://dbpedia.org/resource/₹_2.12_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.12 Cr" .
+
+<https://dbpedia.org/resource/₹ 69.9 - 79.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 69.9 - 79.9 L" .
+
+<https://dbpedia.org/resource/₹ 44.9 - 48.9 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 44.9 - 48.9 L" .
+
+<https://dbpedia.org/resource/₹ 9.5 - 14.65 L>
+        <https://dbpedia.org/ontology/rating>
+                "₹ 9.5 - 14.65 L" .
+
+<https://dbpedia.org/resource/Porsche_Macan>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Porsche Macan" .
+
+<https://dbpedia.org/resource/MG_Gloster>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MG Gloster" .
+
+<https://dbpedia.org/resource/₹_32.85_-_35.85_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 32.85 - 35.85 L" .
+
+<https://dbpedia.org/resource/Citroen_C5_Aircross>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Citroen C5 Aircross" .
+
+<https://dbpedia.org/resource/Compact MPV>
+        <https://dbpedia.org/ontology/style>
+                "Compact MPV" .
+
+<https://dbpedia.org/resource/₹_71.1_L_-_1.1_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 71.1 L - 1.1 Cr" .
+
+<https://dbpedia.org/resource/₹_3.82_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.82 Cr" .
+
+<https://dbpedia.org/resource/₹_3.22_-_4.1_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 3.22 - 4.1 Cr" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_S-Cross>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki S-Cross" .
+
+<https://dbpedia.org/resource/₹_77.69_-_77.85_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 77.69 - 77.85 L" .
+
+<https://dbpedia.org/resource/Maruti_Suzuki_Celerio_X>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Maruti Suzuki Celerio X" .
+
+<https://dbpedia.org/resource/Honda_City>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Honda City" .
+
+<https://dbpedia.org/resource/Tata_Altroz>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Tata Altroz" .
+
+<https://dbpedia.org/resource/₹_2.28_Cr>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 2.28 Cr" .
+
+<https://dbpedia.org/resource/₹_33.23_-_35.19_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 33.23 - 35.19 L" .
+
+<https://dbpedia.org/resource/₹_13.59_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 13.59 L" .
+
+<https://dbpedia.org/resource/9.12 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "9.12 Km/l" .
+
+<https://dbpedia.org/resource/13.7 Km/l>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/Range> ;
+        <https://dbpedia.org/ontology/range>
+                "13.7 Km/l" .
+
+<https://dbpedia.org/resource/8.4>
+        <https://dbpedia.org/ontology/rating>
+                "8.4" .
+
+<https://dbpedia.org/resource/MINI_Clubman>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "MINI Clubman" .
+
+<https://dbpedia.org/resource/₹_71.9_-_84.9_L>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/PriceRange> ;
+        <https://dbpedia.org/ontology/price>
+                "₹ 71.9 - 84.9 L" .
+
+<https://dbpedia.org/resource/Aston_Martin_DB11>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/resource/CarModel> ;
+        <https://dbpedia.org/ontology/names>
+                "Aston Martin DB11" .

@@ -1,0 +1,31 @@
+1--------------------------------------------------
+#Transmission and vehicle type for BWM X6
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?transmission ?vehicleType
+WHERE {
+  <https://dbpedia.org/page/BMW_X6> dbo:Transmission ?transmission ;
+                                 dbo:VehicleType ?vehicleType .
+}
+
+
+2-----------------------------------------------------------
+#the price and range for a specific car model (e.g., Porsche Cayman)
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?price ?range
+WHERE {
+  <https://dbpedia.org/page/Porsche_Cayman> dbo:price ?price ;
+                                            dbo:range ?range .
+}
+
+
+3-----------------------------------------------------------
+#Gives Rating and Style of the Vehicle
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?rating ?style
+WHERE {
+  <https://dbpedia.org/page/Mercedes-AMG_C_43> dbo:rating ?rating ;
+                                                dbo:style ?style .
+}

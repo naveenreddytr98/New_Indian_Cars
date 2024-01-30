@@ -1,0 +1,52 @@
+1)#Transmission and vehicle type for BWM X6
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?transmission ?vehicleType
+WHERE {
+  <https://dbpedia.org/page/BMW_X6> dbo:Transmission ?transmission ;
+                                 dbo:VehicleType ?vehicleType .
+}
+
+---------------------------------------------------
+2)#the price and range for a specific car model (e.g., Porsche Cayman)
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?price ?range
+WHERE {
+  <https://dbpedia.org/page/Porsche_Cayman> dbo:price ?price ;
+                                            dbo:range ?range .
+}
+
+---------------------------------------------
+3)#Gives Rating and Style of the Vehicle
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?rating ?style
+WHERE {
+  <https://dbpedia.org/page/Mercedes-AMG_C_43> dbo:rating ?rating ;
+                                                dbo:style ?style .
+}
+
+---------------------------------------------------
+4) Highest range in electric vehicles
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+SELECT ?model ?range
+WHERE {
+  ?model dbo:VehicleType "Electric" ;
+         dbo:range ?range .
+}
+ORDER BY DESC(?range)
+
+-------------------------------------------------------
+5) Highest rated in Compact SUV vehicles
+PREFIX dbo: <https://dbpedia.org/ontology/>
+
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT ?model ?rating
+WHERE {
+  ?model dbo:style "Compact SUV" ;
+         dbo:rating ?rating .
+}
+ORDER BY DESC(xsd:float(?rating))
+LIMIT 1
